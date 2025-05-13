@@ -13,11 +13,11 @@
 
 ## Modeling
 ### ✅ Done:
+- Preprocessing
+- Random Forest -> score=0.5
+- ANN -> score=0.5 | top5=0.81
 
 ### ❌ Not Yet:
-- Preprocessing
-- Create Baseline Model
-- Evaluation
 
 ### 📝 Notes:
 - input model -> (patch version, team 1, team 2, [step 1, ..., step n] -> encode/one-hot encoding, banrate(one-hot encoding), pickrate(one-hot encoding))

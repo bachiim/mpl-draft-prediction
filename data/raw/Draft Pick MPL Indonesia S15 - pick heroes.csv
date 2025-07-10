@@ -1,0 +1,218 @@
+game_id,team_1_pick_1,team_1_pick_2,team_1_pick_3,team_1_pick_4,team_1_pick_5,team_2_pick_1,team_2_pick_2,team_2_pick_3,team_2_pick_4,team_2_pick_5
+1,joy,gatotkaca,granger,pharsa,cici,moskov,badang,suyou,vexana,chou
+2,suyou,cici,irithel,tigreal,yve,luo yi,granger,badang,gatotkaca,hayabusa
+3,suyou,granger,luo yi,edith,jawhead,cici,gatotkaca,selena,bruno,ling
+4,harith,badang,selena,joy,khaleed,suyou,cici,granger,gatotkaca,vexana
+5,joy,hylos,selena,cici,karrie,gatotkaca,granger,lukas,vexana,edith
+6,joy,valentina,badang,chou,karrie,gatotkaca,granger,suyou,vexana,jawhead
+7,joy,vexana,gloo,gatotkaca,bruno,phoveus,granger,suyou,cecilion,guinevere
+8,joy,granger,badang,hylos,pharsa,suyou,harith,gatotkaca,valentina,chou
+9,harith,hylos,suyou,valentina,lukas,joy,gatotkaca,granger,yve,gloo
+10,suyou,gatotkaca,irithel,chip,valentina,granger,cici,nolan,cecilion,hylos
+11,suyou,pharsa,chou,gloo,claude,yve,granger,hanzo,tigreal,lukas
+12,fanny,hylos,granger,ruby,vexana,harith,badang,suyou,vale,gatotkaca
+13,fanny,gatotkaca,irithel,luo yi,cici,granger,badang,suyou,phoveus,vexana
+14,mathilda,alpha,moskov,valentina,uranus,granger,suyou,jawhead,cici,cecilion
+15,joy,hylos,granger,faramis,cici,harith,phoveus,suyou,aurora,chou
+16,harith,suyou,yve,lukas,gatotkaca,luo yi,hylos,hanzo,claude,valentina
+17,harith,joy,cici,pharsa,gatotkaca,suyou,yve,phoveus,karrie,chip
+18,harith,lukas,hylos,yve,badang,suyou,gatotkaca,valentina,cici,bruno
+19,suyou,badang,granger,khaleed,pharsa,gatotkaca,harith,cici,yve,martis
+20,granger,valentina,lukas,edith,chou,suyou,gatotkaca,moskov,hylos,cecilion
+21,joy,hylos,yve,bruno,badang,suyou,gatotkaca,cici,moskov,aurora
+22,joy,yve,hylos,badang,bruno,suyou,gatotkaca,cici,moskov,aurora
+23,joy,yve,hylos,badang,karrie,suyou,gatotkaca,claude,aurora,cici
+24,suyou,granger,luo yi,chou,cici,gatotkaca,harith,lukas,valentina,edith
+25,suyou,granger,luo yi,gatotkaca,cici,harith,hylos,hayabusa,pharsa,edith
+26,joy,gatotkaca,granger,valentina,chou,harith,luo yi,suyou,jawhead,hilda
+27,joy,moskov,khaleed,gatotkaca,valentina,granger,mathilda,alpha,badang,cecilion
+28,harith,hylos,suyou,yve,phoveus,badang,joy,granger,valentina,gloo
+29,zhuxin,granger,cici,ling,tigreal,hayabusa,harith,hylos,gatotkaca,cecilion
+30,mathilda,phoveus,alpha,valentina,bruno,harith,hayabusa,cecilion,hylos,franco
+31,badang,harith,joy,faramis,chip,granger,suyou,phoveus,hylos,valentina
+32,harith,chou,nolan,luo yi,hilda,cici,suyou,granger,hylos,novaria
+33,badang,moskov,joy,faramis,chip,luo yi,granger,lukas,chou,hylos
+34,harith,cici,joy,khufra,pharsa,gatotkaca,suyou,badang,vexana,beatrix
+35,joy,chou,luo yi,edith,beatrix,gatotkaca,cici,suyou,aurora,karrie
+36,joy,cici,moskov,khaleed,pharsa,luo yi,phoveus,suyou,badang,irithel
+37,joy,hylos,bruno,hilda,luo yi,moskov,gatotkaca,cici,hayabusa,yve
+38,joy,irithel,gatotkaca,gloo,pharsa,granger,chou,hayabusa,valentina,cici
+39,mathilda,alpha,moskov,cici,vexana,granger,suyou,khaleed,valentina,badang
+40,suyou,jawhead,cecilion,hilda,bruno,granger,gatotkaca,joy,luo yi,lukas
+41,harith,hayabusa,chou,badang,lunox,hilda,zhuxin,ling,gatotkaca,granger
+42,suyou,jawhead,cecilion,gloo,bruno,badang,granger,joy,luo yi,guinevere
+43,joy,phoveus,yve,bruno,badang,chip,valentina,lukas,moskov,belerick
+44,harith,joy,cici,chou,aurora,zhuxin,gatotkaca,nolan,moskov,hilda
+45,chip,suyou,granger,edith,pharsa,moskov,joy,hilda,khaleed,faramis
+46,harith,hanzo,pharsa,khaleed,chou,jawhead,suyou,moskov,gloo,selena
+47,joy,granger,hilda,hylos,valentina,moskov,luo yi,suyou,chou,gloo
+48,suyou,jawhead,cecilion,karrie,phoveus,mathilda,joy,hilda,irithel,vexana
+49,joy,zhuxin,chip,hylos,wanwan,hilda,moskov,hayabusa,khaleed,cecilion
+50,joy,irithel,hilda,aurora,khufra,granger,hylos,hanzo,valentina,lukas
+51,suyou,irithel,jawhead,pharsa,hylos,granger,joy,badang,hilda,valentina
+52,chip,granger,valentina,phoveus,hayabusa,hilda,zhuxin,khaleed,bruno,ling
+53,suyou,beatrix,chou,selena,gloo,luo yi,jawhead,lukas,bruno,cici
+54,suyou,cecilion,badang,irithel,khaleed,yve,jawhead,nolan,moskov,lukas
+55,joy,chou,beatrix,terizla,valentina,suyou,badang,cecilion,khaleed,bruno
+56,luo yi,moskov,hanzo,gloo,khaleed,granger,suyou,valentina,gatotkaca,badang
+57,harith,joy,chou,pharsa,gloo,suyou,gatotkaca,granger,cici,faramis
+58,joy,chou,moskov,cecilion,hilda,phoveus,granger,tigreal,valentina,lukas
+59,harith,gatotkaca,joy,pharsa,khaleed,jawhead,suyou,phoveus,beatrix,lunox
+60,harith,phoveus,mathilda,hilda,alpha,granger,luo yi,joy,hylos,franco
+61,suyou,gatotkaca,granger,vale,chou,jawhead,harith,hayabusa,cecilion,badang
+62,kalea,hayabusa,hilda,cecilion,bruno,chou,joy,cici,moskov,selena
+63,zhuxin,badang,suyou,moskov,gatotkaca,kalea,joy,phoveus,valentina,karrie
+64,zhuxin,hayabusa,kalea,irithel,chou,granger,suyou,badang,cecilion,gloo
+65,harith,suyou,vexana,mathilda,phoveus,fanny,badang,cecilion,karrie,cici
+66,granger,suyou,badang,chou,selena,chip,joy,irithel,yve,hilda
+67,granger,joy,zhuxin,phoveus,badang,suyou,jawhead,moskov,aurora,gloo
+68,zhuxin,badang,lukas,hylos,claude,granger,kalea,joy,cecilion,gloo
+69,kalea,mathilda,lukas,bruno,faramis,chip,granger,valentina,fredrinn,masha
+70,kalea,joy,hilda,aurora,karrie,zhuxin,moskov,gloo,chou,lancelot
+71,chip,hayabusa,zhuxin,moskov,hylos,phoveus,joy,tigreal,irithel,yve
+72,harith,gatotkaca,suyou,chou,vexana,kalea,valentina,fanny,hylos,bruno
+73,suyou,gatotkaca,cecilion,claude,arlott,moskov,kalea,joy,yve,edith
+74,harith,hilda,suyou,gatotkaca,pharsa,hayabusa,cici,moskov,chou,selena
+75,harith,suyou,chou,zhuxin,gloo,hayabusa,cici,moskov,gatotkaca,faramis
+76,cici,hayabusa,moskov,valentina,khaleed,badang,granger,suyou,zhuxin,gatotkaca
+77,fanny,cecilion,chou,arlott,beatrix,zhuxin,kalea,joy,badang,karrie
+78,fanny,badang,granger,cici,valentina,kalea,moskov,suyou,chou,vexana
+79,chip,hanzo,kalea,pharsa,moskov,granger,suyou,gatotkaca,valentina,mathilda
+80,chip,moskov,lukas,yve,hilda,zhuxin,suyou,gatotkaca,claude,carmilla
+81,kalea,fanny,yve,phoveus,claude,zhuxin,hylos,masha,joy,ruby
+82,fanny,zhuxin,phoveus,gatotkaca,karrie,chou,moskov,suyou,hylos,yve
+83,moskov,mathilda,phoveus,fanny,cecilion,chou,suyou,zhuxin,gatotkaca,beatrix
+84,moskov,cecilion,joy,carmilla,uranus,kalea,suyou,claude,phoveus,valentina
+85,kalea,fredrinn,novaria,floryn,granger,joy,phoveus,faramis,hylos,clint
+86,kalea,suyou,granger,valentina,phoveus,fredrinn,novaria,natan,chou,hylos
+87,harith,fanny,gatotkaca,edith,zhask,kalea,zhuxin,hayabusa,hilda,granger
+88,joy,irithel,hilda,cici,valentina,kalea,granger,suyou,hylos,zhask
+89,harith,phoveus,mathilda,valentina,alpha,granger,hilda,hayabusa,novaria,badang
+90,harith,hayabusa,hilda,selena,gatotkaca,suyou,chip,phoveus,pharsa,wanwan
+91,harith,suyou,chip,edith,pharsa,granger,selena,fredrinn,novaria,hylos
+92,granger,hayabusa,hylos,khaleed,novaria,hilda,joy,chou,pharsa,irithel
+93,harith,kalea,suyou,edith,yve,joy,phoveus,moskov,hylos,valentina
+94,harith,suyou,yve,gatotkaca,edith,zhuxin,kalea,hanzo,phoveus,wanwan
+95,harith,lukas,valentina,hylos,badang,suyou,zhuxin,wanwan,gatotkaca,cici
+96,kalea,joy,irithel,zhask,hylos,moskov,suyou,tigreal,hilda,novaria
+97,zhuxin,chou,granger,lancelot,hylos,harith,kalea,suyou,hilda,yve
+98,kalea,hayabusa,granger,hylos,zhask,harith,zhuxin,suyou,gatotkaca,badang
+99,harith,gatotkaca,hayabusa,badang,zhask,zhuxin,kalea,phoveus,lancelot,bruno
+100,kalea,moskov,suyou,chou,novaria,joy,granger,gatotkaca,badang,pharsa
+101,kalea,hayabusa,harith,luo yi,gatotkaca,moskov,joy,novaria,badang,hylos
+102,kalea,suyou,moskov,valentina,helcurt,zhuxin,joy,granger,hylos,badang
+103,fanny,badang,cecilion,wanwan,chou,zhuxin,kalea,suyou,beatrix,akai
+104,zhuxin,joy,hilda,chou,wanwan,suyou,kalea,beatrix,badang,lunox
+105,zhuxin,mathilda,fredrinn,badang,clint,phoveus,moskov,cecilion,gatotkaca,suyou
+106,zhuxin,hylos,joy,khaleed,karrie,hilda,moskov,hayabusa,gatotkaca,kimmy
+107,hilda,chou,zhuxin,lunox,yi sun-shin,suyou,harith,phoveus,kimmy,jawhead
+108,kalea,fredrinn,novaria,esmeralda,kimmy,suyou,harith,chou,phoveus,valentina
+109,kalea,novaria,hanzo,hilda,kimmy,suyou,harith,chou,valentina,hylos
+110,joy,granger,zhuxin,gatotkaca,badang,harith,selena,kalea,ling,lukas
+111,suyou,yve,gatotkaca,karrie,cici,zhuxin,kalea,lukas,moskov,jawhead
+112,joy,badang,valentina,chou,claude,harith,chip,hayabusa,pharsa,edith
+113,harith,chip,suyou,edith,novaria,hilda,kalea,hayabusa,pharsa,beatrix
+114,joy,kimmy,gatotkaca,wanwan,gloo,phoveus,harith,novaria,tigreal,ling
+115,joy,pharsa,hylos,franco,granger,harith,valentina,hayabusa,hilda,jawhead
+116,kalea,lukas,valentina,mathilda,granger,hilda,joy,wanwan,badang,pharsa
+117,chip,hylos,joy,claude,pharsa,harith,phoveus,mathilda,valentina,suyou
+118,kalea,granger,joy,gloo,vexana,phoveus,harith,hayabusa,pharsa,chou
+119,chip,hayabusa,granger,selena,esmeralda,harith,kalea,hilda,pharsa,lancelot
+120,joy,granger,gatotkaca,khaleed,kadita,badang,harith,hayabusa,pharsa,hylos
+121,harith,lukas,mathilda,badang,cecilion,gatotkaca,granger,x.borg,faramis,benedetta
+122,fanny,phoveus,chou,valentina,karrie,zhuxin,moskov,suyou,hylos,franco
+123,joy,yve,chou,claude,edith,phoveus,zhuxin,hayabusa,moskov,ruby
+124,kalea,fredrinn,granger,edith,cecilion,zhuxin,suyou,moskov,mathilda,gatotkaca
+125,fanny,zhuxin,phoveus,claude,helcurt,kimmy,chou,lukas,moskov,hilda
+126,fanny,moskov,zhuxin,gatotkaca,edith,chou,kimmy,badang,ling,ruby
+127,kimmy,mathilda,phoveus,moskov,suyou,valentina,kalea,granger,gloo,fredrinn
+128,kimmy,phoveus,hayabusa,harith,mathilda,gatotkaca,granger,masha,valentina,ling
+129,chip,harith,phoveus,suyou,pharsa,kimmy,valentina,carmilla,x.borg,masha
+130,harith,gatotkaca,kimmy,leomord,valentina,phoveus,chip,lukas,irithel,lunox
+131,harith,phoveus,ling,pharsa,gatotkaca,kimmy,kalea,fredrinn,cici,moskov
+132,kimmy,hayabusa,hylos,luo yi,badang,kalea,valentina,suyou,moskov,edith
+133,joy,zhuxin,hylos,wanwan,franco,kalea,suyou,yve,bruno,edith
+134,kalea,valentina,lukas,edith,irithel,kimmy,gatotkaca,x.borg,granger,benedetta
+135,kalea,harith,hayabusa,valentina,hylos,phoveus,chip,suyou,moskov,valir
+136,chip,suyou,gloo,valentina,granger,kalea,phoveus,faramis,claude,ling
+137,zhuxin,fanny,harith,chou,edith,suyou,hylos,moskov,pharsa,tigreal
+138,harith,ling,zhuxin,edith,chip,hylos,suyou,kimmy,badang,zhask
+139,kalea,pharsa,fredrinn,beatrix,arlott,joy,kimmy,gatotkaca,terizla,moskov
+140,granger,fanny,hilda,jawhead,kimmy,chou,joy,moskov,badang,zhuxin
+141,fanny,gatotkaca,bruno,yve,gloo,kimmy,kalea,suyou,phoveus,pharsa
+142,harith,phoveus,zhuxin,hayabusa,gatotkaca,jawhead,suyou,beatrix,gloo,yve
+143,kalea,phoveus,hayabusa,yve,karrie,granger,joy,gloo,faramis,hylos
+144,phoveus,ling,gatotkaca,clint,yve,hayabusa,kimmy,hilda,zhuxin,khaleed
+145,kimmy,gatotkaca,ling,franco,granger,hayabusa,kalea,moskov,novaria,baxia
+146,zhuxin,joy,granger,terizla,gatotkaca,fredrinn,chip,moskov,luo yi,lancelot
+147,kalea,chip,beatrix,cecilion,baxia,harith,zhuxin,suyou,gatotkaca,edith
+148,chip,zhuxin,moskov,gatotkaca,lukas,badang,granger,suyou,zhask,gloo
+149,chip,suyou,zhuxin,gatotkaca,bruno,granger,badang,joy,zhask,hylos
+150,chip,zhuxin,suyou,bruno,gatotkaca,granger,badang,joy,valentina,terizla
+151,phoveus,ling,gatotkaca,karrie,selena,zhuxin,hayabusa,hilda,beatrix,franco
+152,hayabusa,yve,gatotkaca,karrie,chou,zhuxin,hylos,joy,moskov,chip
+153,hayabusa,hylos,yve,tigreal,claude,joy,gatotkaca,pharsa,badang,wanwan
+154,kimmy,gatotkaca,selena,jawhead,ling,pharsa,kalea,baxia,granger,badang
+155,kalea,baxia,pharsa,granger,badang,gatotkaca,harith,hanzo,faramis,gloo
+156,kimmy,fredrinn,badang,ruby,granger,harith,baxia,hanzo,valir,phoveus
+157,chip,fredrinn,granger,esmeralda,yve,valentina,gatotkaca,suyou,badang,wanwan
+158,kimmy,harith,fredrinn,cici,badang,pharsa,chip,beatrix,cici,terizla
+159,harith,gatotkaca,suyou,cecilion,chou,fanny,badang,granger,pharsa,hylos
+160,joy,hylos,granger,luo yi,jawhead,harith,kalea,ling,pharsa,tigreal
+161,kimmy,suyou,hylos,wanwan,badang,gatotkaca,harith,zhuxin,hanzo,khaleed
+162,kalea,valentina,lukas,harith,akai,gatotkaca,joy,wanwan,badang,vexana
+163,baxia,irithel,phoveus,valentina,angela,badang,harith,suyou,zhuxin,gloo
+164,phoveus,suyou,granger,gatotkaca,valentina,badang,luo yi,hylos,clint,lukas
+165,kalea,hayabusa,kimmy,beatrix,tigreal,badang,joy,wanwan,gloo,zhuxin
+166,kimmy,granger,fredrinn,chou,gloo,pharsa,phoveus,joy,beatrix,gatotkaca
+167,kimmy,cici,fredrinn,mathilda,harith,baxia,granger,yve,paquito,franco
+168,granger,chou,yve,lancelot,gloo,kimmy,baxia,ling,claude,khaleed
+169,harith,chip,pharsa,cici,guinevere,kalea,baxia,valentina,irithel,benedetta
+170,chip,harith,pharsa,guinevere,x.borg,kalea,granger,hayabusa,gloo,kimmy
+171,kalea,granger,luo yi,cici,fredrinn,harith,baxia,pharsa,gatotkaca,suyou
+172,chip,ling,hilda,granger,kimmy,zhuxin,suyou,franco,karrie,gloo
+173,chip,ling,hilda,kimmy,zhuxin,kalea,suyou,beatrix,pharsa,gloo
+174,joy,phoveus,granger,gatotkaca,kimmy,harith,fredrinn,chip,luo yi,paquito
+175,hayabusa,luo yi,badang,gloo,claude,kimmy,kalea,suyou,phoveus,moskov
+176,granger,hayabusa,badang,khaleed,pharsa,baxia,kalea,kimmy,wanwan,angela
+177,joy,baxia,granger,kimmy,terizla,fredrinn,kalea,moskov,badang,zhuxin
+178,joy,phoveus,selena,moskov,gatotkaca,luo yi,granger,baxia,badang,angela
+179,baxia,kalea,harith,pharsa,benedetta,granger,luo yi,x.borg,khaleed,lukas
+180,baxia,selena,joy,wanwan,badang,chou,valentina,hayabusa,gloo,irithel
+181,harith,ling,chou,faramis,terizla,baxia,kimmy,fanny,ruby,bruno
+182,kalea,harith,suyou,badang,pharsa,chip,luo yi,masha,irithel,kaja
+183,badang,hayabusa,gloo,irithel,pharsa,phoveus,mathilda,faramis,granger,lukas
+184,zhuxin,mathilda,alpha,gatotkaca,moskov,suyou,gloo,franco,faramis,granger
+185,zhuxin,alpha,mathilda,gatotkaca,karrie,pharsa,kalea,gloo,julian,granger
+186,baxia,badang,selena,harith,ling,luo yi,kalea,lukas,granger,chou
+187,baxia,pharsa,kalea,irithel,phoveus,badang,granger,yve,lancelot,gatotkaca
+188,baxia,pharsa,phoveus,franco,bruno,kalea,granger,kimmy,barats,badang
+189,baxia,franco,kimmy,benedetta,irithel,pharsa,phoveus,wanwan,mathilda,lukas
+190,baxia,irithel,angela,badang,kimmy,kalea,luo yi,granger,barats,floryn
+191,chip,fredrinn,valentina,harith,gloo,baxia,kimmy,wanwan,badang,cici
+192,chip,fredrinn,valentina,x.borg,claude,kimmy,baxia,badang,irithel,cici
+193,kalea,faramis,suyou,hilda,harith,claude,chip,hayabusa,lylia,esmeralda
+194,kalea,suyou,faramis,gloo,granger,badang,harith,yve,cici,ling
+195,joy,granger,gatotkaca,faramis,phoveus,hayabusa,badang,pharsa,kalea,natan
+196,kalea,granger,joy,yve,gloo,badang,hayabusa,pharsa,franco,moskov
+197,hayabusa,phoveus,kimmy,khaleed,claude,granger,gatotkaca,pharsa,cici,lukas
+198,kalea,luo yi,phoveus,lancelot,wanwan,gatotkaca,harith,yve,hilda,lukas
+199,luo yi,granger,gatotkaca,edith,hanzo,harith,kalea,fredrinn,cici,kimmy
+200,kalea,harith,ling,zhuxin,hilda,gatotkaca,pharsa,phoveus,bruno,leomord
+201,kalea,granger,ling,hylos,luo yi,badang,harith,lukas,faramis,chip
+202,baxia,wanwan,pharsa,cici,gatotkaca,kalea,harith,ling,phoveus,yve
+203,baxia,granger,valentina,badang,yi sun-shin,pharsa,kalea,irithel,cici,alpha
+204,luo yi,harith,ling,badang,phoveus,hylos,joy,granger,selena,tigreal
+205,kalea,joy,selena,gatotkaca,granger,luo yi,badang,irithel,kaja,masha
+206,joy,wanwan,badang,luo yi,gloo,phoveus,zhuxin,granger,ruby,ling
+207,suyou,harith,badang,kimmy,phoveus,zhuxin,gatotkaca,wanwan,cici,alpha
+208,kalea,harith,suyou,zhuxin,terizla,fredrinn,chip,masha,kimmy,karrie
+209,badang,wanwan,fredrinn,luo yi,gloo,phoveus,harith,pharsa,hylos,yi sun-shin
+210,phoveus,hayabusa,zhuxin,harith,chou,pharsa,hylos,wanwan,gloo,yi sun-shin
+211,luo yi,baxia,moskov,chip,terizla,harith,kalea,gloo,vexana,lancelot
+212,pharsa,joy,badang,baxia,irithel,hayabusa,hylos,harith,yve,franco
+213,pharsa,joy,irithel,khaleed,gatotkaca,kalea,baxia,harith,valentina,phoveus
+214,pharsa,granger,fredrinn,tigreal,benedetta,valentina,gatotkaca,hayabusa,gloo,irithel
+215,kalea,joy,granger,yve,phoveus,pharsa,baxia,harith,tigreal,ling
+216,baxia,granger,tigreal,valentina,benedetta,chou,pharsa,wanwan,gloo,alpha
+217,baxia,yve,granger,gatotkaca,hayabusa,pharsa,chou,cici,claude,suyou

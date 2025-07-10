@@ -1,0 +1,429 @@
+game_id,date,team_1,team_2,game_number,team_winner,patch_version,team_1_ban_1,team_1_ban_2,team_1_ban_3,team_1_ban_4,team_1_ban_5,team_2_ban_1,team_2_ban_2,team_2_ban_3,team_2_ban_4,team_2_ban_5,team_1_pick_1,team_1_pick_2,team_1_pick_3,team_1_pick_4,team_1_pick_5,team_2_pick_1,team_2_pick_2,team_2_pick_3,team_2_pick_4,team_2_pick_5,season
+1,9-Aug-2024,tlid,fnoc,1,fnoc,1.9.06,fanny,zhask,hayabusa,joy,nolan,chip,ling,zhuxin,x.borg,hylos,luo yi,edith,moskov,julian,minotaur,valentina,roger,arlott,chou,harith,14
+2,9-Aug-2024,fnoc,tlid,2,fnoc,1.9.06,zhuxin,khufra,moskov,hayabusa,luo yi,chip,ling,fanny,terizla,hylos,valentina,nolan,harith,minotaur,thamuz,roger,edith,arlott,vexana,joy,14
+3,9-Aug-2024,dewa,evos,1,dewa,1.9.06,terizla,zhuxin,harith,hayabusa,alpha,chip,zhask,ling,minotaur,carmilla,valentina,edith,claude,julian,hylos,khufra,moskov,vexana,ruby,nolan,14
+4,9-Aug-2024,dewa,evos,2,evos,1.9.06,terizla,zhuxin,harith,alpha,hayabusa,chip,ling,edith,fanny,joy,valentina,arlott,moskov,julian,x.borg,roger,zhask,hylos,guinevere,claude,14
+5,9-Aug-2024,dewa,evos,3,dewa,1.9.06,zhuxin,terizla,zhask,luo yi,minotaur,chip,ling,edith,fanny,hayabusa,valentina,hylos,moskov,julian,paquito,roger,harith,x.borg,guinevere,novaria,14
+6,10-Aug-2024,tlid,btr,1,btr,1.9.06,fanny,x.borg,zhuxin,harith,hayabusa,chip,ling,hylos,julian,alpha,zhask,minotaur,moskov,nolan,barats,ruby,roger,valentina,terizla,mathilda,14
+7,10-Aug-2024,tlid,btr,2,btr,1.9.06,fanny,zhuxin,x.borg,minotaur,kaja,chip,ling,hylos,hayabusa,lolita,roger,edith,valentina,harith,chou,moskov,ruby,luo yi,arlott,yin,14
+8,10-Aug-2024,rrq,evos,1,rrq,1.9.06,harith,valentina,hylos,tigreal,minotaur,chip,ling,fanny,claude,moskov,edith,zhuxin,alpha,ruby,karrie,terizla,hayabusa,zhask,roger,carmilla,14
+9,10-Aug-2024,rrq,evos,2,rrq,1.9.06,harith,valentina,hayabusa,hylos,cici,chip,ling,fanny,julian,joy,edith,ruby,claude,yve,nolan,roger,zhuxin,minotaur,alpha,yu zhong,14
+10,10-Aug-2024,geek,ae,1,geek,1.9.06,fanny,harith,hayabusa,alpha,claude,chip,ling,roger,cici,barats,moskov,helcurt,julian,zhuxin,arlott,edith,valentina,hylos,karrie,lancelot,14
+11,10-Aug-2024,geek,ae,2,ae,1.9.06,fanny,harith,hayabusa,aurora,hylos,chip,ling,helcurt,minotaur,tigreal,roger,zhask,arlott,karrie,edith,ruby,moskov,alpha,valentina,terizla,14
+12,10-Aug-2024,geek,ae,3,ae,1.9.06,fanny,harith,moskov,terizla,hylos,chip,helcurt,ling,aurora,faramis,roger,arlott,khufra,lylia,julian,hayabusa,ruby,zhask,tigreal,claude,14
+13,11-Aug-2024,fnoc,rbl,1,fnoc,1.9.06,luo yi,zhuxin,hylos,harith,moskov,ling,fanny,chip,grock,chou,roger,valentina,arlott,julian,minotaur,hayabusa,zhask,khufra,karrie,terizla,14
+14,11-Aug-2024,rbl,fnoc,2,fnoc,1.9.06,fanny,zhuxin,zhask,valentina,aurora,chip,ling,luo yi,hylos,x.borg,hayabusa,chou,vexana,edith,melissa,roger,khufra,terizla,faramis,claude,14
+15,11-Aug-2024,rrq,btr,1,btr,1.9.06,fanny,harith,zhuxin,tigreal,alpha,chip,ling,hylos,zhask,luo yi,roger,julian,terizla,aurora,minotaur,valentina,ruby,moskov,arlott,x.borg,14
+16,11-Aug-2024,btr,rrq,2,rrq,1.9.06,khufra,zhuxin,ruby,hylos,edith,chip,fanny,luo yi,tigreal,x.borg,ling,harith,valentina,terizla,grock,roger,aurora,fredrinn,arlott,faramis,14
+17,11-Aug-2024,btr,rrq,3,btr,1.9.06,khufra,zhuxin,ruby,moskov,roger,chip,fanny,valentina,aurora,angela,ling,arlott,harith,faramis,tigreal,edith,zhask,hayabusa,jawhead,claude,14
+18,11-Aug-2024,geek,dewa,1,dewa,1.9.06,edith,valentina,hayabusa,moskov,julian,chip,helcurt,ling,arlott,tigreal,zhuxin,harith,fanny,khufra,gloo,ruby,roger,aurora,terizla,alpha,14
+19,11-Aug-2024,dewa,geek,2,dewa,1.9.06,helcurt,ruby,ling,harith,moskov,chip,valentina,hylos,fanny,julian,edith,aurora,roger,chou,alpha,zhuxin,hayabusa,arlott,terizla,claude,14
+20,16-Aug-2024,rbl,rrq,1,rrq,1.9.06,zhuxin,fanny,ruby,harith,arlott,chip,ling,hayabusa,hylos,tigreal,zhask,moskov,julian,terizla,gloo,roger,edith,aurora,franco,natan,14
+21,16-Aug-2024,rbl,rrq,2,rrq,1.9.06,zhuxin,fanny,roger,moskov,harith,chip,ling,hayabusa,tigreal,hylos,zhask,julian,terizla,beatrix,kaja,aurora,edith,alpha,natan,khufra,14
+22,16-Aug-2024,evos,tlid,1,tlid,1.9.06,fanny,ruby,julian,karrie,nolan,chip,ling,valentina,zhuxin,aurora,hayabusa,harith,hylos,jawhead,vexana,edith,zhask,x.borg,moskov,mathilda,14
+23,16-Aug-2024,tlid,evos,2,evos,1.9.06,ruby,hayabusa,khufra,alpha,nolan,chip,ling,valentina,roger,tigreal,fanny,zhuxin,hylos,harith,chou,edith,moskov,zhask,gloo,lancelot,14
+24,16-Aug-2024,evos,tlid,3,tlid,1.9.06,fanny,julian,moskov,mathilda,gloo,chip,ling,valentina,harith,roger,hayabusa,aurora,hylos,claude,jawhead,edith,zhask,karrie,minotaur,joy,14
+25,17-Aug-2024,btr,ae,1,btr,1.9.06,zhuxin,hayabusa,moskov,arlott,minotaur,chip,ling,fanny,cici,x.borg,ruby,harith,valentina,benedetta,grock,roger,zhask,hylos,tigreal,lunox,14
+26,17-Aug-2024,btr,ae,2,btr,1.9.06,zhuxin,hayabusa,moskov,minotaur,khufra,chip,ling,fanny,alpha,benedetta,ruby,arlott,harith,luo yi,x.borg,roger,valentina,hylos,tigreal,claude,14
+27,17-Aug-2024,fnoc,rrq,1,rrq,1.9.06,zhuxin,edith,aurora,faramis,vexana,chip,ling,fanny,hylos,tigreal,zhask,hayabusa,claude,gloo,chou,ruby,harith,roger,valentina,thamuz,14
+28,17-Aug-2024,rrq,fnoc,2,rrq,1.9.06,fanny,hayabusa,valentina,moskov,tigreal,chip,ling,zhuxin,natan,harith,roger,ruby,luo yi,nolan,terizla,edith,zhask,julian,claude,arlott,14
+29,17-Aug-2024,geek,evos,1,geek,1.9.06,zhuxin,hylos,hayabusa,valentina,zhask,chip,helcurt,moskov,vexana,faramis,ling,ruby,harith,luo yi,terizla,khufra,roger,fanny,aurora,edith,14
+30,17-Aug-2024,evos,geek,2,evos,1.9.06,helcurt,fanny,hylos,moskov,roger,chip,ling,hayabusa,lancelot,x.borg,zhask,tigreal,harith,alpha,barats,ruby,terizla,vexana,nolan,natan,14
+31,17-Aug-2024,evos,geek,3,geek,1.9.06,helcurt,fanny,faramis,zhuxin,aurora,chip,ling,tigreal,alpha,hayabusa,zhask,karrie,franco,terizla,nolan,hylos,harith,ruby,roger,vexana,14
+32,18-Aug-2024,dewa,btr,1,btr,1.9.06,fanny,ruby,harith,moskov,claude,chip,ling,hylos,alpha,terizla,roger,zhuxin,chou,natan,khufra,arlott,valentina,hayabusa,mathilda,bruno,14
+33,18-Aug-2024,btr,dewa,2,btr,1.9.06,hylos,zhuxin,ruby,tigreal,angela,chip,ling,fanny,moskov,mathilda,valentina,arlott,roger,yu zhong,x.borg,harith,terizla,alpha,chou,yve,14
+34,18-Aug-2024,fnoc,ae,1,fnoc,1.9.06,zhuxin,fanny,roger,moskov,claude,chip,ling,hayabusa,aurora,valentina,harith,nolan,tigreal,faramis,edith,ruby,zhask,alpha,karrie,benedetta,14
+35,18-Aug-2024,ae,fnoc,2,fnoc,1.9.06,fanny,zhuxin,harith,luo yi,faramis,chip,ling,zhask,tigreal,hylos,roger,ruby,valentina,chou,lancelot,hayabusa,edith,moskov,aurora,minotaur,14
+36,18-Aug-2024,tlid,rbl,1,tlid,1.9.06,julian,hayabusa,zhuxin,nolan,valentina,ling,fanny,chip,harith,joy,zhask,roger,edith,mathilda,x.borg,terizla,moskov,grock,alpha,yve,14
+37,18-Aug-2024,rbl,tlid,2,tlid,1.9.06,fanny,moskov,zhuxin,minotaur,x.borg,chip,ling,zhask,luo yi,aurora,hayabusa,khufra,roger,lunox,gloo,valentina,edith,karrie,terizla,joy,14
+38,23-Aug-2024,fnoc,geek,1,geek,1.9.06,helcurt,harith,chip,ruby,jawhead,fanny,arlott,zhuxin,tigreal,khufra,ling,vexana,hylos,bruno,terizla,roger,valentina,chou,natalia,moskov,14
+39,23-Aug-2024,geek,fnoc,2,fnoc,1.9.06,fanny,hayabusa,zhuxin,zhask,luo yi,chip,helcurt,natalia,claude,tigreal,ling,edith,valentina,kaja,lunox,roger,harith,ruby,aurora,arlott,14
+40,23-Aug-2024,fnoc,geek,3,geek,1.9.06,helcurt,natalia,harith,saber,mathilda,fanny,arlott,chip,claude,terizla,ling,edith,valentina,grock,clint,roger,ruby,zhask,moskov,thamuz,14
+41,23-Aug-2024,dewa,rbl,1,dewa,1.9.06,julian,zhuxin,zhask,barats,luo yi,chip,ling,roger,harith,grock,valentina,fanny,edith,jawhead,claude,hayabusa,moskov,khufra,ruby,nana,14
+42,23-Aug-2024,rbl,dewa,2,dewa,1.9.06,fanny,ling,ruby,jawhead,chou,chip,zhask,hayabusa,julian,nolan,zhuxin,roger,arlott,joy,kaja,moskov,edith,aurora,mathilda,x.borg,14
+43,24-Aug-2024,geek,btr,1,geek,1.9.06,fanny,ruby,valentina,luo yi,mathilda,chip,helcurt,ling,kaja,tigreal,roger,zhask,edith,lunox,terizla,harith,hayabusa,arlott,jawhead,aurora,14
+44,24-Aug-2024,btr,geek,2,btr,1.9.06,helcurt,roger,valentina,arlott,tigreal,fanny,chip,harith,bruno,karrie,ling,jawhead,faramis,beatrix,edith,zhask,ruby,moskov,nolan,thamuz,14
+45,24-Aug-2024,geek,btr,3,geek,1.9.06,fanny,ruby,valentina,luo yi,vexana,chip,helcurt,ling,kaja,tigreal,roger,lunox,edith,terizla,faramis,hayabusa,harith,jawhead,zhask,barats,14
+46,24-Aug-2024,evos,ae,1,evos,1.9.06,hayabusa,fanny,ruby,cici,harith,chip,ling,zhuxin,alpha,bane,zhask,hylos,moskov,julian,jawhead,roger,edith,aurora,nolan,chou,14
+47,24-Aug-2024,ae,evos,2,ae,1.9.06,hylos,ruby,moskov,julian,tigreal,chip,ling,zhuxin,terizla,fanny,roger,aurora,jawhead,hayabusa,phoveus,valentina,edith,harith,mathilda,bane,14
+48,24-Aug-2024,evos,ae,3,evos,1.9.06,hayabusa,fanny,ruby,julian,nolan,chip,ling,hylos,mathilda,tigreal,zhuxin,moskov,terizla,bane,akai,roger,jawhead,faramis,harith,edith,14
+49,24-Aug-2024,dewa,tlid,1,tlid,1.9.06,zhuxin,fanny,zhask,vexana,faramis,chip,valentina,edith,jawhead,chou,ling,aurora,ruby,roger,terizla,harith,hylos,nolan,phoveus,yve,14
+50,24-Aug-2024,dewa,tlid,2,tlid,1.9.06,zhuxin,zhask,fanny,phoveus,tigreal,chip,valentina,hylos,terizla,moskov,ling,aurora,jawhead,arlott,roger,edith,harith,nolan,faramis,chou,14
+51,25-Aug-2024,rbl,ae,1,ae,1.9.06,fanny,hayabusa,zhuxin,harith,natan,chip,ling,ruby,cici,x.borg,zhask,moskov,edith,joy,grock,hylos,roger,aurora,nolan,chou,14
+52,25-Aug-2024,rbl,ae,2,rbl,1.9.06,fanny,hayabusa,hylos,nolan,harith,chip,ling,zhuxin,minotaur,tigreal,zhask,edith,moskov,jawhead,julian,ruby,roger,aurora,chou,claude,14
+53,25-Aug-2024,ae,rbl,3,ae,1.9.06,ruby,zhask,zhuxin,x.borg,cici,ling,chip,hayabusa,chou,kaja,hylos,luo yi,nolan,tigreal,roger,jawhead,moskov,valentina,terizla,julian,14
+54,25-Aug-2024,tlid,rrq,1,rrq,1.9.06,ruby,roger,edith,aurora,hayabusa,chip,fanny,ling,mathilda,moskov,zhask,terizla,nolan,karrie,jawhead,hylos,harith,arlott,zhuxin,lancelot,14
+55,25-Aug-2024,tlid,rrq,2,rrq,1.9.06,ruby,roger,harith,alpha,arlott,chip,fanny,ling,mathilda,chou,zhask,moskov,edith,joy,terizla,hylos,aurora,natan,nolan,barats,14
+56,25-Aug-2024,btr,evos,1,evos,1.9.06,zhuxin,zhask,hylos,roger,arlott,chip,ling,ruby,tigreal,terizla,valentina,moskov,fanny,edith,grock,jawhead,julian,vexana,phoveus,brody,14
+57,25-Aug-2024,btr,evos,2,btr,1.9.06,zhuxin,hylos,jawhead,tigreal,akai,chip,ruby,fanny,terizla,luo yi,ling,arlott,harith,zhask,lolita,roger,valentina,phoveus,franco,julian,14
+58,25-Aug-2024,btr,evos,3,btr,1.9.06,zhuxin,hylos,jawhead,minotaur,tigreal,chip,ruby,ling,zhask,luo yi,arlott,roger,mathilda,alpha,lunox,valentina,moskov,phoveus,akai,bane,14
+59,30-Aug-2024,fnoc,dewa,1,fnoc,1.9.06,fanny,zhuxin,harith,nolan,joy,chip,ling,roger,faramis,valentina,hayabusa,hylos,moskov,terizla,lylia,edith,zhask,karrie,julian,chou,14
+60,30-Aug-2024,fnoc,dewa,2,dewa,1.9.06,fanny,zhuxin,zhask,phoveus,kaja,chip,ling,roger,arlott,faramis,harith,nolan,chou,kadita,edith,hayabusa,hylos,lunox,valentina,tigreal,14
+61,30-Aug-2024,fnoc,dewa,3,fnoc,1.9.06,fanny,zhuxin,hylos,valentina,phoveus,chip,ling,roger,chou,terizla,harith,faramis,nolan,grock,tigreal,edith,hayabusa,lunox,arlott,lylia,14
+62,30-Aug-2024,btr,rbl,1,btr,1.9.06,hylos,zhuxin,hayabusa,faramis,vexana,chip,ling,harith,nolan,edith,zhask,moskov,arlott,khufra,alpha,fanny,ruby,roger,valentina,tigreal,14
+63,30-Aug-2024,rbl,btr,2,rbl,1.9.06,fanny,ruby,hayabusa,roger,hylos,chip,ling,moskov,nolan,mathilda,zhask,lunox,phoveus,jawhead,benedetta,harith,arlott,lylia,alpha,yu zhong,14
+64,30-Aug-2024,btr,rbl,3,btr,1.9.06,hylos,zhuxin,hayabusa,faramis,phoveus,chip,ling,fanny,lunox,mathilda,zhask,roger,ruby,kaja,beatrix,jawhead,benedetta,harith,terizla,aurora,14
+65,31-Aug-2024,geek,tlid,1,geek,1.9.06,fanny,zhuxin,ling,edith,x.borg,roger,helcurt,chip,phoveus,faramis,hylos,moskov,julian,vexana,gatotkaca,jawhead,harith,nolan,terizla,zhask,14
+66,31-Aug-2024,geek,tlid,2,tlid,1.9.06,fanny,zhuxin,ling,mathilda,chou,chip,roger,helcurt,moskov,valentina,hylos,gatotkaca,julian,claude,vexana,harith,terizla,nolan,faramis,carmilla,14
+67,31-Aug-2024,tlid,geek,3,tlid,1.9.06,helcurt,gatotkaca,roger,faramis,vexana,fanny,chip,ling,harith,karrie,hylos,nolan,zhuxin,natan,carmilla,moskov,phoveus,julian,valentina,lolita,14
+68,31-Aug-2024,btr,fnoc,1,fnoc,1.9.06,zhask,phoveus,hylos,arlott,jawhead,chip,zhuxin,roger,moskov,kaja,valentina,ruby,ling,edith,beatrix,fanny,harith,faramis,grock,barats,14
+69,31-Aug-2024,fnoc,btr,2,btr,1.9.06,harith,zhuxin,hylos,barats,moskov,chip,phoveus,grock,tigreal,roger,fanny,faramis,terizla,brody,jawhead,zhask,ruby,ling,arlott,clint,14
+70,31-Aug-2024,btr,fnoc,3,fnoc,1.9.06,phoveus,grock,harith,beatrix,lolita,chip,zhuxin,zhask,lylia,barats,ruby,moskov,ling,jawhead,luo yi,fanny,hylos,faramis,arlott,roger,14
+71,31-Aug-2024,ae,rrq,1,rrq,1.9.06,zhuxin,roger,hylos,x.borg,thamuz,chip,fanny,ling,chou,tigreal,phoveus,zhask,hayabusa,minotaur,claude,ruby,harith,alpha,faramis,edith,14
+72,31-Aug-2024,ae,rrq,2,ae,1.9.06,zhuxin,roger,harith,karrie,edith,chip,ling,fanny,chou,tigreal,hylos,luo yi,nolan,phoveus,lunox,ruby,zhask,hayabusa,arlott,clint,14
+73,31-Aug-2024,ae,rrq,3,rrq,1.9.06,roger,harith,zhuxin,jawhead,cici,chip,ling,fanny,phoveus,tigreal,hylos,nolan,zhask,hanabi,lolita,edith,aurora,julian,franco,beatrix,14
+74,1-Sep-2024,rbl,evos,1,rbl,1.9.06,hylos,hayabusa,fanny,aurora,valentina,chip,ling,zhuxin,tigreal,chou,zhask,edith,roger,benedetta,phoveus,jawhead,julian,moskov,vexana,arlott,14
+75,1-Sep-2024,evos,rbl,2,rbl,1.9.06,hayabusa,fanny,zhask,chou,tigreal,chip,ling,hylos,claude,x.borg,zhuxin,jawhead,julian,moskov,arlott,roger,phoveus,yve,edith,benedetta,14
+76,1-Sep-2024,geek,rrq,1,rrq,1.9.06,ruby,harith,zhuxin,franco,hanabi,chip,helcurt,roger,moskov,tigreal,hylos,vexana,ling,karrie,gatotkaca,aurora,phoveus,alpha,edith,bruno,14
+77,1-Sep-2024,rrq,geek,2,geek,1.9.06,helcurt,roger,gatotkaca,ruby,lolita,chip,harith,zhuxin,arlott,franco,hylos,julian,valentina,claude,minsitthar,vexana,phoveus,nolan,moskov,terizla,14
+78,1-Sep-2024,rrq,geek,3,rrq,1.9.06,helcurt,roger,hylos,natalia,moskov,chip,harith,zhuxin,alpha,hayabusa,phoveus,valentina,grock,ling,beatrix,vexana,edith,nolan,bruno,gatotkaca,14
+79,1-Sep-2024,ae,dewa,1,ae,1.9.06,zhuxin,edith,hylos,tigreal,grock,chip,ling,phoveus,roger,terizla,fanny,jawhead,luo yi,harith,arlott,valentina,ruby,moskov,julian,barats,14
+80,1-Sep-2024,ae,dewa,2,ae,1.9.06,zhuxin,edith,hylos,aurora,faramis,chip,ling,fanny,lunox,tigreal,phoveus,zhask,roger,chou,lancelot,terizla,hayabusa,harith,jawhead,valentina,14
+81,6-Sep-2024,geek,rbl,1,geek,1.9.06,hayabusa,benedetta,zhuxin,terizla,x.borg,chip,helcurt,roger,valentina,vexana,phoveus,alpha,moskov,faramis,ruby,zhask,edith,karrie,julian,akai,14
+82,6-Sep-2024,rbl,geek,2,geek,1.9.06,hylos,helcurt,roger,faramis,ruby,chip,phoveus,zhuxin,lolita,harith,zhask,hayabusa,arlott,akai,karrie,moskov,edith,julian,aurora,grock,14
+83,6-Sep-2024,evos,fnoc,1,fnoc,1.9.06,hayabusa,faramis,zhask,luo yi,ruby,chip,zhuxin,roger,harith,lolita,phoveus,valentina,nolan,claude,tigreal,julian,hylos,karrie,vexana,terizla,14
+84,6-Sep-2024,evos,fnoc,2,fnoc,1.9.06,hayabusa,faramis,zhask,julian,alpha,chip,zhuxin,hylos,vexana,aurora,phoveus,tigreal,nolan,lunox,angela,roger,jawhead,valentina,terizla,ruby,14
+85,7-Sep-2024,dewa,rrq,1,dewa,1.9.06,roger,zhuxin,ruby,terizla,edith,chip,ling,fanny,chou,jawhead,phoveus,hayabusa,lunox,gatotkaca,vexana,harith,hylos,alpha,angela,tigreal,14
+86,7-Sep-2024,rrq,dewa,2,rrq,1.9.06,fanny,hylos,hayabusa,harith,lolita,chip,roger,phoveus,ruby,beatrix,zhuxin,julian,edith,franco,karrie,chou,ling,aurora,arlott,lunox,14
+87,7-Sep-2024,dewa,rrq,3,rrq,1.9.06,roger,zhuxin,ruby,alpha,nolan,chip,fanny,ling,lolita,hylos,phoveus,moskov,julian,gatotkaca,aurora,edith,vexana,natan,fredrinn,yu zhong,14
+88,7-Sep-2024,ae,tlid,1,tlid,1.9.06,zhuxin,edith,harith,moskov,mathilda,chip,ling,fanny,tigreal,jawhead,phoveus,roger,zhask,grock,lancelot,vexana,hylos,alpha,lolita,natan,14
+89,7-Sep-2024,tlid,ae,2,tlid,1.9.06,roger,zhask,phoveus,khufra,ruby,chip,zhuxin,hylos,lolita,faramis,fanny,harith,terizla,aurora,chou,vexana,edith,ling,moskov,tigreal,14
+90,7-Sep-2024,btr,evos,1,btr,1.9.06,zhuxin,ling,hylos,jawhead,harith,chip,valentina,arlott,edith,ruby,phoveus,roger,zhask,bane,tigreal,nolan,terizla,faramis,lunox,franco,14
+91,7-Sep-2024,btr,evos,2,btr,1.9.06,zhuxin,ling,hylos,alpha,bane,chip,valentina,faramis,aurora,luo yi,phoveus,ruby,nolan,harith,lunox,roger,zhask,tigreal,terizla,natan,14
+92,8-Sep-2024,ae,rbl,1,ae,1.9.06,zhuxin,zhask,hylos,faramis,grock,chip,fanny,hayabusa,harith,chou,phoveus,vexana,ling,moskov,tigreal,edith,alpha,roger,yve,akai,14
+93,8-Sep-2024,rbl,ae,2,ae,1.9.06,fanny,hayabusa,hylos,chou,harith,chip,zhuxin,phoveus,tigreal,grock,zhask,moskov,edith,arlott,julian,ling,aurora,terizla,jawhead,karrie,14
+94,8-Sep-2024,geek,fnoc,1,geek,1.9.06,fanny,hayabusa,zhuxin,terizla,karrie,chip,helcurt,roger,faramis,ruby,phoveus,nolan,moskov,grock,vexana,julian,hylos,zhask,brody,lolita,14
+95,8-Sep-2024,geek,fnoc,2,geek,1.9.06,fanny,hayabusa,zhuxin,terizla,kaja,chip,helcurt,roger,zhask,faramis,phoveus,nolan,moskov,mathilda,yve,julian,hylos,karrie,vexana,chou,14
+96,8-Sep-2024,dewa,tlid,1,tlid,1.9.06,fanny,zhuxin,harith,lolita,mathilda,chip,ling,hylos,gatotkaca,aurora,phoveus,moskov,julian,lylia,edith,vexana,terizla,alpha,carmilla,natan,14
+97,8-Sep-2024,tlid,dewa,2,dewa,1.9.06,zhuxin,hayabusa,phoveus,nolan,roger,chip,fanny,hylos,faramis,lolita,ling,harith,terizla,angela,aurora,vexana,gatotkaca,lunox,arlott,alpha,14
+98,8-Sep-2024,dewa,tlid,3,tlid,1.9.06,fanny,zhuxin,phoveus,faramis,carmilla,chip,ling,hayabusa,lunox,arlott,vexana,alpha,gatotkaca,edith,karrie,nolan,hylos,harith,yve,lolita,14
+99,13-Sep-2024,btr,dewa,1,btr,1.9.06,hylos,hayabusa,gatotkaca,vexana,mathilda,chip,ling,fanny,valentina,ruby,phoveus,nolan,lunox,yve,grock,harith,edith,alpha,zhuxin,terizla,14
+100,13-Sep-2024,btr,dewa,2,dewa,1.9.06,gatotkaca,hayabusa,hylos,vexana,mathilda,chip,fanny,ling,yve,zhuxin,phoveus,nolan,lunox,khufra,zhask,harith,terizla,alpha,valentina,carmilla,14
+101,13-Sep-2024,btr,dewa,3,btr,1.9.06,hylos,harith,alpha,valentina,carmilla,chip,fanny,ling,zhuxin,yve,phoveus,roger,mathilda,hayabusa,zhask,terizla,moskov,julian,vexana,gatotkaca,14
+102,13-Sep-2024,rbl,tlid,1,tlid,1.9.06,fanny,nolan,ling,tigreal,carmilla,chip,zhask,moskov,natan,harith,hayabusa,zhuxin,edith,kaja,karrie,vexana,phoveus,roger,hylos,ruby,14
+103,13-Sep-2024,rbl,tlid,2,rbl,1.9.06,fanny,nolan,ling,mathilda,joy,chip,zhask,moskov,natan,harith,hayabusa,yve,edith,karrie,carmilla,roger,phoveus,vexana,hylos,julian,14
+104,13-Sep-2024,rbl,tlid,3,tlid,1.9.06,fanny,nolan,ling,natan,harith,chip,zhask,hayabusa,moskov,lunox,edith,alpha,mathilda,novaria,karrie,hylos,yve,roger,ruby,arlott,14
+105,14-Sep-2024,evos,dewa,1,dewa,1.9.06,hylos,zhuxin,alpha,grock,terizla,chip,ling,phoveus,tigreal,vexana,edith,lunox,fanny,zhask,chou,valentina,harith,hayabusa,gatotkaca,arlott,14
+106,14-Sep-2024,dewa,evos,2,dewa,1.9.06,ling,hylos,zhuxin,yu zhong,vexana,chip,phoveus,harith,arlott,gatotkaca,valentina,alpha,moskov,mathilda,terizla,roger,ruby,nolan,tigreal,lunox,14
+107,14-Sep-2024,ae,geek,1,ae,1.9.06,helcurt,roger,hylos,mathilda,faramis,fanny,hayabusa,zhuxin,alpha,ling,chip,edith,vexana,julian,karrie,nolan,phoveus,moskov,luo yi,grock,14
+108,14-Sep-2024,geek,ae,2,geek,1.9.06,fanny,hayabusa,zhuxin,karrie,claude,chip,helcurt,roger,mathilda,faramis,phoveus,moskov,nolan,terizla,yve,hylos,vexana,julian,lolita,hanabi,14
+109,14-Sep-2024,ae,geek,3,geek,1.9.06,helcurt,roger,hylos,mathilda,moskov,fanny,hayabusa,zhuxin,julian,alpha,chip,edith,vexana,bane,harith,nolan,phoveus,faramis,ruby,lunox,14
+110,14-Sep-2024,rrq,fnoc,1,rrq,1.9.06,fanny,faramis,hylos,luo yi,terizla,chip,zhuxin,phoveus,nolan,fredrinn,edith,valentina,harith,ruby,ling,chou,roger,lunox,vexana,gatotkaca,14
+111,14-Sep-2024,fnoc,rrq,2,rrq,1.9.06,zhask,phoveus,aurora,ling,natan,chip,fanny,hayabusa,harith,lolita,zhuxin,nolan,chou,arlott,karrie,roger,edith,yve,mathilda,ixia,14
+112,15-Sep-2024,ae,evos,1,ae,1.9.06,zhuxin,hylos,harith,grock,terizla,chip,phoveus,roger,brody,ruby,edith,luo yi,ling,khufra,clint,valentina,moskov,fanny,lolita,arlott,14
+113,15-Sep-2024,ae,evos,2,ae,1.9.06,zhuxin,hylos,harith,nolan,alpha,chip,phoveus,ling,luo yi,vexana,fanny,terizla,moskov,jawhead,aurora,valentina,edith,roger,mathilda,ruby,14
+114,15-Sep-2024,tlid,fnoc,1,tlid,1.9.06,hayabusa,phoveus,faramis,gatotkaca,luo yi,chip,fanny,zhuxin,tigreal,yve,hylos,harith,nolan,arlott,vexana,edith,roger,lunox,kaja,valentina,14
+115,15-Sep-2024,tlid,fnoc,2,tlid,1.9.06,hayabusa,phoveus,faramis,yve,zhuxin,chip,fanny,nolan,edith,ruby,hylos,harith,alpha,angela,chou,ling,roger,terizla,mathilda,valentina,14
+116,15-Sep-2024,btr,rrq,1,btr,1.9.06,hylos,edith,alpha,franco,kaja,chip,ling,harith,brody,valentina,phoveus,roger,mathilda,faramis,nolan,vexana,terizla,fanny,ruby,melissa,14
+117,15-Sep-2024,btr,rrq,2,rrq,1.9.06,hylos,edith,phoveus,jawhead,x.borg,chip,mathilda,ling,tigreal,lolita,ruby,zhask,hayabusa,masha,grock,aurora,harith,roger,gatotkaca,uranus,14
+118,15-Sep-2024,btr,rrq,3,rrq,1.9.06,hylos,edith,phoveus,fredrinn,alpha,chip,mathilda,ling,luo yi,zhuxin,ruby,fanny,roger,lunox,khufra,gatotkaca,harith,valentina,arlott,bane,14
+119,20-Sep-2024,geek,dewa,1,geek,1.9.20,fanny,hayabusa,valentina,gatotkaca,tigreal,chip,helcurt,phoveus,grock,yve,edith,lunox,nolan,ruby,faramis,harith,arlott,alpha,vexana,hylos,14
+120,20-Sep-2024,dewa,geek,2,geek,1.9.20,helcurt,nolan,chip,moskov,faramis,fanny,hayabusa,phoveus,gatotkaca,mathilda,edith,alpha,harith,valentina,carmilla,julian,terizla,ruby,yve,claude,14
+121,20-Sep-2024,tlid,btr,1,tlid,1.9.20,mathilda,zhask,alpha,yve,ruby,chip,fanny,phoveus,lunox,faramis,hylos,nolan,arlott,aurora,alice,harith,ling,gatotkaca,vexana,chou,14
+122,20-Sep-2024,btr,tlid,2,tlid,1.9.20,fanny,harith,phoveus,vexana,gatotkaca,mathilda,chip,arlott,grock,moskov,ruby,valentina,nolan,tigreal,natan,hylos,ling,alice,yve,chou,14
+123,21-Sep-2024,ae,dewa,1,dewa,1.9.20,harith,edith,alpha,moskov,arlott,chip,phoveus,fanny,alice,chou,hylos,valentina,ling,terizla,roger,gatotkaca,hayabusa,yve,claude,gloo,14
+124,21-Sep-2024,ae,dewa,2,dewa,1.9.20,harith,gatotkaca,hylos,moskov,terizla,chip,phoveus,fanny,chou,alice,edith,ling,valentina,kaja,karrie,hayabusa,mathilda,yve,claude,arlott,14
+125,21-Sep-2024,rrq,evos,1,rrq,1.9.20,hayabusa,tigreal,harith,minotaur,kaja,chip,edith,phoveus,alice,moskov,mathilda,yve,roger,khaleed,cecilion,arlott,ling,valentina,claude,angela,14
+126,21-Sep-2024,evos,rrq,2,evos,1.9.20,yve,fanny,hayabusa,valentina,luo yi,chip,phoveus,mathilda,lunox,tigreal,edith,ling,faramis,kaja,beatrix,arlott,nolan,alice,aurora,gatotkaca,14
+127,21-Sep-2024,evos,rrq,3,evos,1.9.20,fanny,yve,mathilda,arlott,claude,chip,ling,phoveus,tigreal,minotaur,edith,nolan,luo yi,akai,harith,faramis,ruby,joy,gatotkaca,moskov,14
+128,21-Sep-2024,rbl,fnoc,1,rbl,1.9.20,fanny,ling,nolan,moskov,terizla,chip,phoveus,hayabusa,minotaur,lancelot,edith,zhask,claude,alpha,kaja,mathilda,yve,joy,ruby,bruno,14
+129,21-Sep-2024,rbl,fnoc,2,rbl,1.9.20,fanny,ling,nolan,lancelot,julian,chip,mathilda,edith,terizla,harith,hayabusa,zhask,gatotkaca,akai,lunox,claude,phoveus,faramis,ruby,joy,14
+130,22-Sep-2024,rrq,geek,1,rrq,1.9.20,helcurt,nolan,faramis,vexana,luo yi,edith,harith,arlott,natan,alice,phoveus,mathilda,yve,claude,bane,julian,chip,moskov,valentina,thamuz,14
+131,22-Sep-2024,geek,rrq,2,rrq,1.9.20,mathilda,yve,harith,gatotkaca,melissa,chip,helcurt,phoveus,claude,moskov,edith,faramis,ruby,alice,nolan,arlott,valentina,roger,grock,natan,14
+132,22-Sep-2024,rbl,btr,1,btr,1.9.20,nolan,fanny,ling,tigreal,arlott,chip,phoveus,hayabusa,mathilda,kaja,edith,alpha,lunox,khufra,zhask,gatotkaca,harith,yve,khaleed,x.borg,14
+133,22-Sep-2024,rbl,btr,2,btr,1.9.20,nolan,fanny,ling,benedetta,valentina,chip,phoveus,hayabusa,mathilda,kaja,yve,edith,alpha,claude,akai,gatotkaca,harith,khaleed,luo yi,x.borg,14
+134,22-Sep-2024,tlid,evos,1,tlid,1.9.20,arlott,edith,alpha,terizla,faramis,chip,fanny,phoveus,vexana,lunox,hylos,ruby,ling,aurora,angela,mathilda,harith,nolan,gloo,yve,14
+135,22-Sep-2024,evos,tlid,2,evos,1.9.20,fanny,yve,hylos,luo yi,vexana,chip,edith,phoveus,lunox,angela,ling,terizla,faramis,kaja,beatrix,harith,arlott,nolan,valentina,lolita,14
+136,22-Sep-2024,tlid,evos,3,tlid,1.9.20,edith,arlott,ling,kaja,franco,fanny,phoveus,chip,luo yi,yve,hylos,hayabusa,harith,vexana,ruby,nolan,terizla,faramis,lunox,tigreal,14
+137,27-Sep-2024,geek,tlid,1,tlid,1.9.20,fanny,ling,nolan,edith,arlott,helcurt,chip,hylos,lunox,moskov,phoveus,ruby,yve,roger,clint,mathilda,alpha,aurora,harith,gatotkaca,14
+138,27-Sep-2024,tlid,geek,2,tlid,1.9.20,helcurt,chip,nolan,alpha,ruby,fanny,ling,mathilda,vexana,aurora,hylos,hayabusa,harith,akai,lylia,yve,phoveus,lunox,gatotkaca,bane,14
+139,27-Sep-2024,rrq,dewa,1,rrq,1.9.20,hayabusa,fanny,gatotkaca,harith,tigreal,chip,phoveus,roger,yve,valentina,mathilda,khaleed,julian,faramis,claude,ruby,ling,vexana,beatrix,hylos,14
+140,27-Sep-2024,dewa,rrq,2,rrq,1.9.20,roger,alpha,chip,claude,khufra,hayabusa,phoveus,mathilda,harith,tigreal,gatotkaca,fanny,yve,x.borg,beatrix,khaleed,vexana,bane,ruby,natan,14
+141,28-Sep-2024,evos,rbl,1,rbl,1.9.20,hayabusa,yve,edith,lunox,karrie,chip,ling,nolan,faramis,terizla,mathilda,claude,julian,aurora,yu zhong,phoveus,alpha,kaja,vexana,moskov,14
+142,28-Sep-2024,evos,rbl,2,evos,1.9.20,hayabusa,yve,alpha,luo yi,vexana,chip,ling,phoveus,beatrix,fanny,edith,faramis,kaja,lancelot,karrie,nolan,gatotkaca,akai,valentina,natan,14
+143,28-Sep-2024,evos,rbl,3,evos,1.9.20,yve,hayabusa,alpha,karrie,moskov,chip,ling,phoveus,tigreal,gatotkaca,nolan,valentina,khaleed,atlas,natan,edith,julian,kaja,zhask,roger,14
+144,28-Sep-2024,rrq,ae,1,ae,1.9.20,fanny,hayabusa,luo yi,moskov,julian,chip,phoveus,mathilda,natan,harith,ling,vexana,arlott,ruby,claude,gatotkaca,khaleed,faramis,bruno,joy,14
+145,28-Sep-2024,ae,rrq,2,ae,1.9.20,mathilda,khaleed,edith,claude,natan,fanny,chip,phoveus,ruby,lolita,ling,gatotkaca,yve,lunox,barats,arlott,valentina,hayabusa,grock,harith,14
+146,28-Sep-2024,fnoc,btr,1,btr,1.9.20,harith,phoveus,x.borg,alpha,nolan,chip,fanny,ling,claude,karrie,hayabusa,khaleed,valentina,wanwan,franco,alice,gatotkaca,angela,arlott,beatrix,14
+147,28-Sep-2024,fnoc,btr,2,fnoc,1.9.20,harith,phoveus,x.borg,alpha,arlott,chip,fanny,ling,claude,karrie,hayabusa,khaleed,valentina,wanwan,franco,alice,gatotkaca,angela,beatrix,terizla,14
+148,28-Sep-2024,fnoc,btr,3,fnoc,1.9.20,harith,phoveus,gatotkaca,hylos,edith,chip,fanny,ling,franco,kaja,khaleed,valentina,hayabusa,tigreal,wanwan,alice,arlott,angela,moskov,grock,14
+149,29-Sep-2024,tlid,ae,1,ae,1.9.20,khaleed,hayabusa,phoveus,moskov,edith,mathilda,fanny,chip,hylos,vexana,ling,angela,ruby,aurora,barats,valentina,gatotkaca,nolan,arlott,claude,14
+150,29-Sep-2024,ae,tlid,2,tlid,1.9.20,mathilda,fanny,hayabusa,natan,lunox,chip,khaleed,ling,jawhead,luo yi,phoveus,nolan,harith,lylia,tigreal,gatotkaca,yve,alpha,angela,alice,14
+151,29-Sep-2024,tlid,ae,3,tlid,1.9.20,khaleed,ling,phoveus,arlott,edith,mathilda,fanny,angela,alice,carmilla,gatotkaca,yve,alpha,chou,harith,chip,hayabusa,vexana,hylos,lunox,14
+152,29-Sep-2024,fnoc,evos,1,fnoc,1.9.20,phoveus,harith,ling,franco,kaja,chip,fanny,hayabusa,natan,melissa,khaleed,valentina,lancelot,gatotkaca,wanwan,nolan,edith,faramis,moskov,akai,14
+153,29-Sep-2024,evos,fnoc,2,fnoc,1.9.20,fanny,hayabusa,khaleed,terizla,wanwan,chip,phoveus,ling,harith,arlott,nolan,faramis,gatotkaca,natan,hylos,edith,valentina,lancelot,beatrix,franco,14
+154,29-Sep-2024,geek,rbl,1,geek,1.9.20,fanny,yve,phoveus,faramis,natan,chip,helcurt,nolan,lunox,moskov,khaleed,aurora,gatotkaca,julian,claude,edith,alpha,mathilda,alice,benedetta,14
+155,29-Sep-2024,geek,rbl,2,rbl,1.9.20,hayabusa,yve,phoveus,faramis,natan,helcurt,chip,nolan,julian,harith,khaleed,hylos,aurora,alice,roger,gatotkaca,alpha,mathilda,claude,zhask,14
+156,29-Sep-2024,rbl,geek,3,geek,1.9.20,helcurt,nolan,chip,julian,natan,phoveus,hayabusa,gatotkaca,beatrix,yve,khaleed,kaja,alpha,claude,valentina,mathilda,edith,faramis,moskov,bane,14
+157,4-Oct-2024,geek,btr,1,btr,1.9.20,harith,ruby,ling,x.borg,beatrix,helcurt,chip,phoveus,valentina,luo yi,gatotkaca,moskov,fanny,arlott,zhuxin,khaleed,mathilda,faramis,wanwan,alpha,14
+158,4-Oct-2024,geek,btr,2,btr,1.9.20,harith,mathilda,gatotkaca,ruby,moskov,helcurt,chip,phoveus,natalia,grock,khaleed,fanny,valentina,edith,claude,hylos,ling,faramis,tigreal,wanwan,14
+159,4-Oct-2024,dewa,rbl,1,rbl,1.9.20,khaleed,mathilda,edith,kaja,akai,chip,fanny,hayabusa,harith,wanwan,gatotkaca,alpha,vexana,terizla,claude,phoveus,nolan,yve,natan,minotaur,14
+160,4-Oct-2024,rbl,dewa,2,dewa,1.9.20,fanny,harith,hayabusa,edith,claude,chip,gatotkaca,yve,luo yi,valentina,phoveus,nolan,kaja,vexana,natan,alpha,mathilda,faramis,khaleed,moskov,14
+161,4-Oct-2024,rbl,dewa,3,rbl,1.9.20,fanny,harith,hayabusa,moskov,claude,chip,yve,khaleed,natan,luo yi,phoveus,nolan,minotaur,karrie,zhask,mathilda,alpha,valentina,hylos,wanwan,14
+162,5-Oct-2024,evos,geek,1,geek,1.9.20,helcurt,phoveus,gatotkaca,chou,moskov,ling,nolan,chip,faramis,wanwan,khaleed,hayabusa,edith,alice,vexana,mathilda,alpha,valentina,thamuz,natan,14
+163,5-Oct-2024,evos,geek,2,evos,1.9.20,phoveus,gatotkaca,mathilda,chou,edith,ling,nolan,chip,hayabusa,fanny,khaleed,vexana,tigreal,harith,julian,valentina,alpha,helcurt,wanwan,terizla,14
+164,5-Oct-2024,evos,geek,3,geek,1.9.20,gatotkaca,mathilda,helcurt,faramis,luo yi,ling,chip,khaleed,wanwan,alpha,phoveus,tigreal,vexana,fanny,claude,nolan,edith,natan,hylos,aurora,14
+165,5-Oct-2024,tlid,rrq,1,tlid,1.9.20,khaleed,hayabusa,edith,bane,julian,chip,fanny,mathilda,yve,zhuxin,ling,angela,hylos,chou,harith,phoveus,gatotkaca,faramis,roger,bruno,14
+166,5-Oct-2024,rrq,tlid,2,rrq,1.9.20,fanny,hylos,angela,x.borg,carmilla,khaleed,edith,mathilda,natan,harith,chip,phoveus,alpha,yve,irithel,gatotkaca,luo yi,wanwan,chou,joy,14
+167,5-Oct-2024,tlid,rrq,3,rrq,1.9.20,khaleed,edith,hayabusa,phoveus,arlott,fanny,chip,mathilda,harith,chou,angela,ling,gatotkaca,ruby,yve,hylos,faramis,natan,bane,franco,14
+168,5-Oct-2024,ae,fnoc,1,fnoc,1.9.20,harith,khaleed,fanny,moskov,franco,chip,phoveus,gatotkaca,angela,tigreal,ling,valentina,terizla,ruby,khufra,hayabusa,edith,luo yi,beatrix,barats,14
+169,5-Oct-2024,ae,fnoc,2,fnoc,1.9.20,harith,khaleed,fanny,wanwan,franco,chip,phoveus,gatotkaca,valentina,lunox,ling,angela,chou,yve,bruno,hayabusa,edith,faramis,beatrix,kaja,14
+170,6-Oct-2024,dewa,fnoc,1,fnoc,1.9.20,fanny,ling,hayabusa,kaja,chou,chip,phoveus,mathilda,beatrix,irithel,khaleed,yve,julian,jawhead,moskov,gatotkaca,alpha,wanwan,lylia,angela,14
+171,6-Oct-2024,fnoc,dewa,2,dewa,1.9.20,gatotkaca,alpha,khaleed,valentina,yve,chip,fanny,hayabusa,wanwan,beatrix,phoveus,franco,faramis,moskov,martis,ling,angela,harith,hylos,zhuxin,14
+172,6-Oct-2024,fnoc,dewa,3,fnoc,1.9.20,gatotkaca,alpha,phoveus,bane,nolan,chip,fanny,hayabusa,yve,valentina,ling,harith,edith,barats,luo yi,angela,khaleed,moskov,faramis,joy,14
+173,6-Oct-2024,btr,ae,1,btr,1.9.20,gatotkaca,hayabusa,fanny,tigreal,wanwan,chip,phoveus,ling,harith,beatrix,mathilda,valentina,alpha,akai,brody,khaleed,angela,joy,bruno,chou,14
+174,6-Oct-2024,ae,btr,2,btr,1.9.20,harith,khaleed,arlott,angela,khufra,chip,gatotkaca,phoveus,tigreal,edith,fanny,barats,valentina,claude,jawhead,faramis,ruby,ling,hylos,wanwan,14
+175,6-Oct-2024,rrq,rbl,1,rrq,1.9.20,phoveus,edith,angela,nolan,lunox,chip,fanny,ling,natan,claude,hayabusa,hylos,mathilda,zhuxin,wanwan,khaleed,gatotkaca,zhask,harith,lancelot,14
+176,6-Oct-2024,rbl,rrq,2,rrq,1.9.20,fanny,ling,hayabusa,franco,joy,phoveus,chip,alpha,harith,lunox,nolan,zhask,gatotkaca,akai,claude,chou,angela,wanwan,hylos,lancelot,14
+177,23-Oct-2024,btr,ae,1,btr,1.9.20,gatotkaca,zhuxin,fanny,phoveus,harith,chip,mathilda,edith,khaleed,franco,suyou,wanwan,valentina,tigreal,chou,yve,hylos,alpha,arlott,moskov,14
+178,23-Oct-2024,ae,btr,2,btr,1.9.20,harith,mathilda,zhuxin,x.borg,alice,chip,fanny,suyou,gatotkaca,beatrix,alpha,phoveus,luo yi,moskov,ruby,wanwan,valentina,hylos,tigreal,nolan,14
+179,23-Oct-2024,ae,btr,3,btr,1.9.20,harith,mathilda,wanwan,tigreal,chou,fanny,suyou,chip,gatotkaca,phoveus,zhuxin,edith,alpha,benedetta,clint,hylos,nolan,yve,beatrix,ruby,14
+180,23-Oct-2024,fnoc,geek,1,fnoc,1.9.20,helcurt,zhuxin,chip,alpha,nolan,fanny,wanwan,khaleed,kaja,edith,suyou,luo yi,hylos,beatrix,franco,yve,phoveus,mathilda,moskov,x.borg,14
+181,23-Oct-2024,geek,fnoc,2,geek,1.9.20,fanny,ling,hayabusa,wanwan,claude,chip,helcurt,zhuxin,mathilda,gatotkaca,suyou,faramis,hylos,beatrix,edith,phoveus,nolan,luo yi,natan,khaleed,14
+182,23-Oct-2024,fnoc,geek,3,geek,1.9.20,helcurt,zhuxin,chip,mathilda,gatotkaca,fanny,wanwan,luo yi,kaja,edith,suyou,beatrix,hylos,franco,vexana,yve,phoveus,alpha,tigreal,natan,14
+183,23-Oct-2024,fnoc,geek,4,fnoc,1.9.20,helcurt,zhuxin,chip,mathilda,phoveus,fanny,wanwan,luo yi,edith,vexana,suyou,tigreal,beatrix,aurora,chou,hylos,yve,alpha,gatotkaca,moskov,14
+184,23-Oct-2024,fnoc,geek,5,geek,1.9.20,helcurt,zhuxin,chip,phoveus,mathilda,fanny,wanwan,luo yi,kaja,franco,suyou,faramis,beatrix,chou,khaleed,hylos,nolan,yve,tigreal,natan,14
+185,24-Oct-2024,tlid,btr,1,tlid,1.9.20,wanwan,phoveus,angela,natan,harith,fanny,suyou,chip,gatotkaca,ruby,mathilda,alpha,zhuxin,hilda,bruno,hylos,valentina,hayabusa,beatrix,kaja,14
+186,24-Oct-2024,btr,tlid,2,tlid,1.9.20,fanny,zhuxin,mathilda,luo yi,alice,chip,wanwan,suyou,x.borg,hayabusa,hylos,harith,valentina,tigreal,nolan,angela,alpha,phoveus,chou,natan,14
+187,24-Oct-2024,tlid,btr,3,btr,1.9.20,wanwan,phoveus,angela,natan,beatrix,chip,fanny,suyou,yve,aurora,mathilda,nolan,harith,gatotkaca,vexana,zhuxin,alpha,tigreal,khaleed,claude,14
+188,24-Oct-2024,tlid,btr,4,btr,1.9.20,wanwan,angela,yve,harith,aurora,chip,fanny,suyou,hylos,x.borg,zhuxin,natan,chou,akai,bane,alpha,mathilda,phoveus,lunox,clint,14
+189,24-Oct-2024,btr,tlid,5,tlid,1.9.20,fanny,zhuxin,alpha,valentina,natan,chip,wanwan,suyou,khaleed,harith,mathilda,faramis,x.borg,akai,brody,phoveus,angela,ling,ruby,aurora,14
+190,24-Oct-2024,rrq,geek,1,rrq,1.9.20,helcurt,hylos,phoveus,hilda,natalia,mathilda,suyou,chip,arlott,tigreal,zhuxin,ling,edith,natan,franco,nolan,gatotkaca,yve,beatrix,chou,14
+191,24-Oct-2024,geek,rrq,2,geek,1.9.20,mathilda,yve,zhuxin,ling,alpha,helcurt,phoveus,chip,hylos,tigreal,suyou,faramis,beatrix,chou,thamuz,luo yi,edith,natan,khaleed,nolan,14
+192,24-Oct-2024,rrq,geek,3,rrq,1.9.20,helcurt,hylos,phoveus,natan,harith,zhuxin,suyou,chip,bruno,arlott,mathilda,faramis,alpha,barats,irithel,nolan,chou,valentina,beatrix,khaleed,14
+193,24-Oct-2024,rrq,geek,4,rrq,1.9.20,helcurt,phoveus,hylos,natan,harith,zhuxin,suyou,chip,bruno,arlott,mathilda,faramis,alpha,barats,irithel,nolan,chou,luo yi,beatrix,edith,14
+194,25-Oct-2024,btr,geek,1,btr,1.9.20,helcurt,phoveus,chip,alpha,nolan,mathilda,wanwan,yve,harith,beatrix,suyou,gatotkaca,luo yi,natan,arlott,hylos,zhuxin,moskov,tigreal,joy,14
+195,25-Oct-2024,geek,btr,2,btr,1.9.20,fanny,wanwan,mathilda,natan,x.borg,chip,suyou,phoveus,chou,helcurt,zhuxin,hylos,alpha,edith,clint,khaleed,gatotkaca,yve,moskov,nolan,14
+196,25-Oct-2024,geek,btr,3,btr,1.9.20,fanny,wanwan,zhuxin,moskov,nolan,chip,suyou,mathilda,phoveus,tigreal,alpha,natan,faramis,ruby,thamuz,gatotkaca,yve,khaleed,julian,clint,14
+197,25-Oct-2024,rrq,tlid,1,tlid,1.9.20,fanny,angela,hylos,ling,hayabusa,chip,mathilda,suyou,irithel,harith,zhuxin,alpha,edith,franco,wanwan,yve,phoveus,natan,chou,bane,14
+198,25-Oct-2024,rrq,tlid,2,tlid,1.9.20,fanny,angela,phoveus,hayabusa,alpha,chip,mathilda,suyou,bane,nolan,zhuxin,irithel,khaleed,julian,cici,chou,natan,hilda,ling,yve,14
+199,25-Oct-2024,rrq,tlid,3,rrq,1.9.20,fanny,angela,chou,hylos,gatotkaca,chip,mathilda,natan,franco,tigreal,suyou,edith,yve,terizla,claude,zhuxin,phoveus,nolan,harith,grock,14
+200,25-Oct-2024,tlid,rrq,4,rrq,1.9.20,edith,natan,chip,irithel,claude,fanny,chou,suyou,ruby,aurora,phoveus,angela,ling,hylos,harith,alpha,mathilda,faramis,barats,bruno,14
+201,25-Oct-2024,tlid,rrq,5,rrq,1.9.20,natan,alpha,chip,franco,kaja,fanny,chou,suyou,hilda,faramis,mathilda,harith,bane,hylos,aurora,phoveus,yve,hayabusa,khaleed,lunox,14
+202,26-Oct-2024,tlid,btr,1,tlid,1.9.20,wanwan,khaleed,gatotkaca,luo yi,tigreal,fanny,suyou,chip,ruby,harith,mathilda,yve,bane,ixia,hylos,natan,alpha,phoveus,valentina,rafaela,14
+203,26-Oct-2024,btr,tlid,2,tlid,1.9.20,fanny,phoveus,angela,chou,gatotkaca,wanwan,suyou,chip,x.borg,bane,mathilda,khaleed,natan,zhuxin,nolan,yve,alpha,hilda,harith,rafaela,14
+204,26-Oct-2024,tlid,btr,3,tlid,1.9.20,wanwan,gatotkaca,khaleed,arlott,chou,fanny,suyou,chip,aurora,phoveus,mathilda,natan,bane,lylia,terizla,yve,alpha,moskov,ruby,lolita,14
+205,27-Oct-2024,tlid,rrq,1,tlid,1.9.20,edith,phoveus,mathilda,carmilla,khaleed,chou,fanny,suyou,lylia,harith,chip,hilda,alpha,pharsa,beatrix,natan,yve,bane,terizla,tigreal,14
+206,27-Oct-2024,rrq,tlid,2,rrq,1.9.20,fanny,chou,hilda,barats,akai,chip,suyou,khaleed,ixia,bruno,mathilda,bane,phoveus,irithel,zhuxin,alpha,yve,natan,hylos,rafaela,14
+207,27-Oct-2024,tlid,rrq,3,rrq,1.9.20,edith,phoveus,mathilda,carmilla,khaleed,fanny,suyou,chou,terizla,akai,chip,alpha,yve,benedetta,natan,bane,hilda,zhuxin,gatotkaca,irithel,14
+208,27-Oct-2024,tlid,rrq,4,tlid,1.9.20,phoveus,alpha,chip,faramis,irithel,fanny,chou,yve,akai,benedetta,suyou,zhuxin,khaleed,hylos,beatrix,hilda,mathilda,bane,natan,aurora,14
+209,27-Oct-2024,rrq,tlid,5,rrq,1.9.20,fanny,chou,hilda,hylos,terizla,chip,suyou,mathilda,irithel,franco,phoveus,zhuxin,bane,jawhead,beatrix,alpha,khaleed,yve,natan,tigreal,14
+210,27-Oct-2024,tlid,rrq,6,tlid,1.9.20,alpha,chip,bane,bruno,natan,fanny,hilda,suyou,ruby,harith,phoveus,angela,ling,lunox,khaleed,barats,mathilda,faramis,julian,irithel,14
+211,27-Oct-2024,rrq,tlid,7,tlid,1.9.20,fanny,hilda,khaleed,ruby,lunox,chip,suyou,zhuxin,phoveus,bruno,mathilda,faramis,alpha,ixia,barats,chou,angela,ling,harith,terizla,14
+212,7-Mar-2025,rrq,navi,1,rrq,1.9.42,mathilda,phoveus,harith,hylos,valentina,zhuxin,fanny,luo yi,yve,chip,joy,gatotkaca,granger,pharsa,cici,moskov,badang,suyou,vexana,chou,15
+213,7-Mar-2025,rrq,navi,2,rrq,1.9.42,phoveus,mathilda,harith,hanzo,nolan,fanny,zhuxin,joy,pharsa,hylos,suyou,cici,irithel,tigreal,yve,luo yi,granger,badang,gatotkaca,hayabusa,15
+214,7-Mar-2025,evos,tlid,1,evos,1.9.42,mathilda,harith,yve,nolan,lukas,fanny,joy,zhuxin,badang,phoveus,suyou,granger,luo yi,edith,jawhead,cici,gatotkaca,selena,bruno,ling,15
+215,7-Mar-2025,tlid,evos,2,tlid,1.9.42,mathilda,phoveus,luo yi,valentina,jawhead,fanny,zhuxin,yve,hanzo,lukas,harith,badang,selena,joy,khaleed,suyou,cici,granger,gatotkaca,vexana,15
+216,7-Mar-2025,tlid,evos,3,evos,1.9.42,mathilda,phoveus,luo yi,suyou,hayabusa,fanny,zhuxin,harith,valentina,badang,joy,hylos,selena,cici,karrie,gatotkaca,granger,lukas,vexana,edith,15
+217,8-Mar-2025,geek,evos,1,evos,1.9.42,mathilda,cici,phoveus,luo yi,tigreal,fanny,zhuxin,harith,moskov,lukas,joy,valentina,badang,chou,karrie,gatotkaca,granger,suyou,vexana,jawhead,15
+218,8-Mar-2025,evos,geek,2,evos,1.9.42,mathilda,harith,yve,pharsa,luo yi,fanny,cici,zhuxin,moskov,jawhead,joy,vexana,gloo,gatotkaca,bruno,phoveus,granger,suyou,cecilion,guinevere,15
+219,8-Mar-2025,btr,ae,1,btr,1.9.42,mathilda,yve,lukas,tigreal,jawhead,fanny,zhuxin,cici,luo yi,phoveus,joy,granger,badang,hylos,pharsa,suyou,harith,gatotkaca,valentina,chou,15
+220,8-Mar-2025,ae,btr,2,btr,1.9.42,luo yi,chou,badang,cici,phoveus,zhuxin,fanny,mathilda,tigreal,jawhead,harith,hylos,suyou,valentina,lukas,joy,gatotkaca,granger,yve,gloo,15
+221,8-Mar-2025,rrq,onic,1,rrq,1.9.42,yve,phoveus,harith,luo yi,tigreal,zhuxin,fanny,joy,hilda,pharsa,suyou,gatotkaca,irithel,chip,valentina,granger,cici,nolan,cecilion,hylos,15
+222,8-Mar-2025,onic,rrq,2,rrq,1.9.42,phoveus,mathilda,joy,gatotkaca,jawhead,fanny,zhuxin,harith,irithel,moskov,suyou,pharsa,chou,gloo,claude,yve,granger,hanzo,tigreal,lukas,15
+223,9-Mar-2025,dewa,btr,1,btr,1.9.42,yve,joy,phoveus,akai,chou,luo yi,zhuxin,mathilda,hilda,edith,fanny,hylos,granger,ruby,vexana,harith,badang,suyou,vale,gatotkaca,15
+224,9-Mar-2025,btr,dewa,2,dewa,1.9.42,mathilda,yve,moskov,jawhead,chou,zhuxin,joy,harith,gloo,lukas,fanny,gatotkaca,irithel,luo yi,cici,granger,badang,suyou,phoveus,vexana,15
+225,9-Mar-2025,dewa,btr,3,dewa,1.9.42,yve,joy,badang,gloo,luo yi,zhuxin,fanny,harith,hilda,vexana,mathilda,alpha,moskov,valentina,uranus,granger,suyou,jawhead,cici,cecilion,15
+226,9-Mar-2025,ae,onic,1,ae,1.9.42,fanny,khaleed,badang,luo yi,jawhead,zhuxin,mathilda,yve,gloo,lukas,joy,hylos,granger,faramis,cici,harith,phoveus,suyou,aurora,chou,15
+227,9-Mar-2025,onic,ae,2,onic,1.9.42,granger,mathilda,phoveus,moskov,cici,fanny,joy,zhuxin,jawhead,badang,harith,suyou,yve,lukas,gatotkaca,luo yi,hylos,hanzo,claude,valentina,15
+228,9-Mar-2025,ae,onic,3,ae,1.9.42,fanny,khaleed,luo yi,moskov,jawhead,zhuxin,mathilda,granger,faramis,hylos,harith,joy,cici,pharsa,gatotkaca,suyou,yve,phoveus,karrie,chip,15
+229,9-Mar-2025,tlid,navi,1,navi,1.9.42,mathilda,phoveus,granger,moskov,jawhead,fanny,zhuxin,joy,faramis,angela,harith,lukas,hylos,yve,badang,suyou,gatotkaca,valentina,cici,bruno,15
+230,9-Mar-2025,tlid,navi,2,tlid,1.9.42,phoveus,mathilda,lukas,hanzo,hayabusa,fanny,zhuxin,joy,luo yi,valentina,suyou,badang,granger,khaleed,pharsa,gatotkaca,harith,cici,yve,martis,15
+231,9-Mar-2025,navi,tlid,3,tlid,1.9.42,fanny,harith,luo yi,cici,gloo,zhuxin,joy,mathilda,badang,chip,granger,valentina,lukas,edith,chou,suyou,gatotkaca,moskov,hylos,cecilion,15
+232,14-Mar-2025,onic,geek,1,onic,1.9.48,mathilda,harith,phoveus,pharsa,luo yi,fanny,zhuxin,granger,jawhead,claude,joy,hylos,yve,bruno,badang,suyou,gatotkaca,cici,moskov,aurora,15
+233,14-Mar-2025,onic,geek,2,geek,1.9.48,mathilda,harith,phoveus,pharsa,luo yi,fanny,zhuxin,granger,jawhead,claude,joy,yve,hylos,badang,bruno,suyou,gatotkaca,cici,moskov,aurora,15
+234,14-Mar-2025,onic,geek,3,geek,1.9.48,mathilda,harith,moskov,pharsa,luo yi,fanny,zhuxin,granger,bruno,irithel,joy,yve,hylos,badang,karrie,suyou,gatotkaca,claude,aurora,cici,15
+235,14-Mar-2025,dewa,navi,1,dewa,1.9.48,yve,joy,badang,novaria,hayabusa,zhuxin,fanny,mathilda,jawhead,gloo,suyou,granger,luo yi,chou,cici,gatotkaca,harith,lukas,valentina,edith,15
+236,14-Mar-2025,dewa,navi,2,dewa,1.9.48,yve,joy,badang,novaria,vexana,zhuxin,fanny,mathilda,jawhead,chou,suyou,granger,luo yi,gatotkaca,cici,harith,hylos,hayabusa,pharsa,edith,15
+237,15-Mar-2025,ae,navi,1,ae,1.9.48,lukas,hanzo,badang,phoveus,hylos,zhuxin,fanny,mathilda,cici,pharsa,joy,gatotkaca,granger,valentina,chou,harith,luo yi,suyou,jawhead,hilda,15
+238,15-Mar-2025,ae,navi,2,navi,1.9.48,lukas,luo yi,harith,phoveus,hilda,fanny,zhuxin,yve,cici,vexana,joy,moskov,khaleed,gatotkaca,valentina,granger,mathilda,alpha,badang,cecilion,15
+239,15-Mar-2025,ae,navi,3,ae,1.9.48,lukas,luo yi,moskov,cici,hilda,fanny,zhuxin,mathilda,tigreal,jawhead,harith,hylos,suyou,yve,phoveus,badang,joy,granger,valentina,gloo,15
+240,15-Mar-2025,rrq,tlid,1,rrq,1.9.48,mathilda,badang,yve,hilda,phoveus,fanny,joy,suyou,hanzo,alpha,zhuxin,granger,cici,ling,tigreal,hayabusa,harith,hylos,gatotkaca,cecilion,15
+241,15-Mar-2025,tlid,rrq,2,rrq,1.9.48,gatotkaca,granger,cici,gloo,jawhead,fanny,zhuxin,suyou,moskov,luo yi,mathilda,phoveus,alpha,valentina,bruno,harith,hayabusa,cecilion,hylos,franco,15
+242,15-Mar-2025,btr,evos,1,evos,1.9.48,mathilda,gatotkaca,luo yi,jawhead,tigreal,zhuxin,fanny,yve,cici,chou,badang,harith,joy,faramis,chip,granger,suyou,phoveus,hylos,valentina,15
+243,15-Mar-2025,btr,evos,2,btr,1.9.48,mathilda,gatotkaca,phoveus,jawhead,tigreal,zhuxin,fanny,badang,uranus,yve,harith,chou,nolan,luo yi,hilda,cici,suyou,granger,hylos,novaria,15
+244,15-Mar-2025,btr,evos,3,evos,1.9.48,mathilda,gatotkaca,phoveus,edith,suyou,zhuxin,fanny,harith,valentina,hilda,badang,moskov,joy,faramis,chip,luo yi,granger,lukas,chou,hylos,15
+245,16-Mar-2025,geek,btr,1,btr,1.9.48,luo yi,granger,mathilda,moskov,bruno,zhuxin,fanny,phoveus,hylos,chou,harith,cici,joy,khufra,pharsa,gatotkaca,suyou,badang,vexana,beatrix,15
+246,16-Mar-2025,btr,geek,2,btr,1.9.48,mathilda,phoveus,fanny,vexana,moskov,zhuxin,granger,harith,hilda,badang,joy,chou,luo yi,edith,beatrix,gatotkaca,cici,suyou,aurora,karrie,15
+247,16-Mar-2025,ae,evos,1,ae,1.9.48,fanny,lukas,granger,jawhead,bruno,zhuxin,harith,yve,hylos,gatotkaca,joy,cici,moskov,khaleed,pharsa,luo yi,phoveus,suyou,badang,irithel,15
+248,16-Mar-2025,evos,ae,2,ae,1.9.48,harith,mathilda,badang,suyou,hanzo,zhuxin,granger,fanny,edith,jawhead,joy,hylos,bruno,hilda,luo yi,moskov,gatotkaca,cici,hayabusa,yve,15
+249,16-Mar-2025,tlid,dewa,1,tlid,1.9.48,phoveus,mathilda,harith,hylos,luo yi,zhuxin,fanny,suyou,hilda,badang,joy,irithel,gatotkaca,gloo,pharsa,granger,chou,hayabusa,valentina,cici,15
+250,16-Mar-2025,dewa,tlid,2,tlid,1.9.48,yve,joy,hayabusa,gloo,luo yi,fanny,zhuxin,harith,phoveus,hilda,mathilda,alpha,moskov,cici,vexana,granger,suyou,khaleed,valentina,badang,15
+251,21-Mar-2025,onic,dewa,1,onic,1.9.64,mathilda,harith,moskov,cici,phoveus,zhuxin,yve,fanny,irithel,karrie,suyou,jawhead,cecilion,hilda,bruno,granger,gatotkaca,joy,luo yi,lukas,15
+252,21-Mar-2025,dewa,onic,2,dewa,1.9.64,yve,phoveus,suyou,hylos,chip,mathilda,fanny,joy,gloo,cici,harith,hayabusa,chou,badang,lunox,hilda,zhuxin,ling,gatotkaca,granger,15
+253,21-Mar-2025,onic,dewa,3,onic,1.9.64,mathilda,harith,moskov,chou,tigreal,zhuxin,yve,fanny,irithel,phoveus,suyou,jawhead,cecilion,gloo,bruno,badang,granger,joy,luo yi,guinevere,15
+254,21-Mar-2025,navi,evos,1,evos,1.9.64,fanny,granger,suyou,gloo,hilda,zhuxin,harith,mathilda,gatotkaca,hylos,joy,phoveus,yve,bruno,badang,chip,valentina,lukas,moskov,belerick,15
+255,21-Mar-2025,evos,navi,2,evos,1.9.64,luo yi,suyou,phoveus,edith,badang,fanny,granger,mathilda,yve,chip,harith,joy,cici,chou,aurora,zhuxin,gatotkaca,nolan,moskov,hilda,15
+256,22-Mar-2025,tlid,geek,1,tlid,1.9.64,phoveus,jawhead,harith,gatotkaca,valentina,fanny,zhuxin,luo yi,badang,gloo,chip,suyou,granger,edith,pharsa,moskov,joy,hilda,khaleed,faramis,15
+257,22-Mar-2025,geek,tlid,2,geek,1.9.64,luo yi,mathilda,badang,hilda,valentina,zhuxin,chip,fanny,cici,gatotkaca,harith,hanzo,pharsa,khaleed,chou,jawhead,suyou,moskov,gloo,selena,15
+258,22-Mar-2025,tlid,geek,3,geek,1.9.64,jawhead,phoveus,harith,tigreal,gatotkaca,fanny,zhuxin,chip,mathilda,pharsa,joy,granger,hilda,hylos,valentina,moskov,luo yi,suyou,chou,gloo,15
+259,22-Mar-2025,onic,btr,1,onic,1.9.64,granger,harith,moskov,beatrix,luo yi,zhuxin,yve,fanny,gloo,lukas,suyou,jawhead,cecilion,karrie,phoveus,mathilda,joy,hilda,irithel,vexana,15
+260,22-Mar-2025,btr,onic,2,onic,1.9.64,jawhead,phoveus,fanny,valentina,yve,granger,harith,suyou,beatrix,gloo,joy,zhuxin,chip,hylos,wanwan,hilda,moskov,hayabusa,khaleed,cecilion,15
+261,22-Mar-2025,rrq,ae,1,ae,1.9.64,cici,harith,suyou,luo yi,phoveus,zhuxin,chip,fanny,badang,khaleed,joy,irithel,hilda,aurora,khufra,granger,hylos,hanzo,valentina,lukas,15
+262,22-Mar-2025,rrq,ae,2,rrq,1.9.64,cici,hanzo,harith,faramis,gatotkaca,fanny,chip,zhuxin,phoveus,lukas,suyou,irithel,jawhead,pharsa,hylos,granger,joy,badang,hilda,valentina,15
+263,22-Mar-2025,rrq,ae,3,rrq,1.9.64,hanzo,cici,harith,irithel,moskov,fanny,suyou,joy,lukas,hylos,chip,granger,valentina,phoveus,hayabusa,hilda,zhuxin,khaleed,bruno,ling,15
+264,23-Mar-2025,btr,navi,1,btr,1.9.64,mathilda,yve,zhuxin,moskov,phoveus,harith,fanny,granger,valentina,badang,suyou,beatrix,chou,selena,gloo,luo yi,jawhead,lukas,bruno,cici,15
+265,23-Mar-2025,navi,btr,2,navi,1.9.64,fanny,granger,joy,hilda,beatrix,mathilda,harith,zhuxin,chou,tigreal,suyou,cecilion,badang,irithel,khaleed,yve,jawhead,nolan,moskov,lukas,15
+266,23-Mar-2025,btr,navi,3,btr,1.9.64,mathilda,yve,phoveus,tigreal,moskov,harith,granger,jawhead,zhuxin,hilda,joy,chou,beatrix,terizla,valentina,suyou,badang,cecilion,khaleed,bruno,15
+267,23-Mar-2025,geek,rrq,1,rrq,1.9.64,mathilda,jawhead,joy,franco,tigreal,fanny,zhuxin,harith,cici,chou,luo yi,moskov,hanzo,gloo,khaleed,granger,suyou,valentina,gatotkaca,badang,15
+268,23-Mar-2025,geek,rrq,2,geek,1.9.64,mathilda,jawhead,luo yi,tigreal,badang,fanny,zhuxin,hanzo,hilda,cecilion,harith,joy,chou,pharsa,gloo,suyou,gatotkaca,granger,cici,faramis,15
+269,23-Mar-2025,geek,rrq,3,rrq,1.9.64,mathilda,jawhead,luo yi,suyou,hayabusa,fanny,zhuxin,harith,faramis,gloo,joy,chou,moskov,cecilion,hilda,phoveus,granger,tigreal,valentina,lukas,15
+270,23-Mar-2025,ae,dewa,1,dewa,1.9.64,badang,luo yi,chou,granger,moskov,zhuxin,cici,fanny,gloo,tigreal,harith,gatotkaca,joy,pharsa,khaleed,jawhead,suyou,phoveus,beatrix,lunox,15
+271,23-Mar-2025,dewa,ae,2,ae,1.9.64,yve,cici,moskov,khaleed,gloo,zhuxin,suyou,fanny,lukas,hayabusa,harith,phoveus,mathilda,hilda,alpha,granger,luo yi,joy,hylos,franco,15
+272,23-Mar-2025,ae,dewa,3,ae,1.9.64,fanny,lukas,phoveus,luo yi,yve,zhuxin,cici,hanzo,tigreal,gloo,suyou,gatotkaca,granger,vale,chou,jawhead,harith,hayabusa,cecilion,badang,15
+273,18-Apr-2025,navi,onic,1,navi,1.9.64,fanny,harith,luo yi,faramis,valentina,zhuxin,mathilda,granger,pharsa,karrie,kalea,hayabusa,hilda,cecilion,bruno,chou,joy,cici,moskov,selena,15
+274,18-Apr-2025,onic,navi,2,onic,1.9.64,hilda,granger,mathilda,yve,aurora,fanny,harith,luo yi,hylos,gloo,zhuxin,badang,suyou,moskov,gatotkaca,kalea,joy,phoveus,valentina,karrie,15
+275,18-Apr-2025,navi,onic,3,onic,1.9.64,harith,luo yi,phoveus,jawhead,faramis,hilda,fanny,joy,gatotkaca,hylos,zhuxin,hayabusa,kalea,irithel,chou,granger,suyou,badang,cecilion,gloo,15
+276,18-Apr-2025,dewa,evos,1,dewa,1.9.64,luo yi,granger,lukas,bruno,moskov,kalea,chip,zhuxin,jawhead,chou,harith,suyou,vexana,mathilda,phoveus,fanny,badang,cecilion,karrie,cici,15
+277,18-Apr-2025,dewa,evos,2,evos,1.9.64,luo yi,lukas,moskov,cecilion,zhuxin,kalea,harith,fanny,jawhead,tigreal,granger,suyou,badang,chou,selena,chip,joy,irithel,yve,hilda,15
+278,18-Apr-2025,dewa,evos,3,dewa,1.9.64,luo yi,lukas,chip,cecilion,yve,kalea,harith,fanny,guinevere,chou,granger,joy,zhuxin,phoveus,badang,suyou,jawhead,moskov,aurora,gloo,15
+279,19-Apr-2025,btr,tlid,1,tlid,1.9.64,fanny,suyou,hilda,phoveus,chou,luo yi,harith,chip,mathilda,tigreal,zhuxin,badang,lukas,hylos,claude,granger,kalea,joy,cecilion,gloo,15
+280,19-Apr-2025,tlid,btr,2,btr,1.9.64,luo yi,harith,phoveus,joy,hayabusa,fanny,suyou,zhuxin,irithel,moskov,kalea,mathilda,lukas,bruno,faramis,chip,granger,valentina,fredrinn,masha,15
+281,19-Apr-2025,tlid,btr,3,btr,1.9.64,luo yi,harith,chip,tigreal,mathilda,fanny,suyou,granger,cecilion,yve,kalea,joy,hilda,aurora,karrie,zhuxin,moskov,gloo,chou,lancelot,15
+282,19-Apr-2025,rrq,evos,1,rrq,1.9.64,lukas,granger,luo yi,faramis,valentina,harith,fanny,kalea,badang,gloo,chip,hayabusa,zhuxin,moskov,hylos,phoveus,joy,tigreal,irithel,yve,15
+283,19-Apr-2025,evos,rrq,2,evos,1.9.64,phoveus,zhuxin,moskov,beatrix,franco,granger,chip,luo yi,faramis,badang,harith,gatotkaca,suyou,chou,vexana,kalea,valentina,fanny,hylos,bruno,15
+284,19-Apr-2025,rrq,evos,3,rrq,1.9.64,lukas,granger,luo yi,hilda,hylos,harith,zhuxin,chip,karrie,phoveus,suyou,gatotkaca,cecilion,claude,arlott,moskov,kalea,joy,yve,edith,15
+285,19-Apr-2025,geek,ae,1,ae,1.9.64,joy,hanzo,phoveus,zhuxin,luo yi,fanny,kalea,chip,badang,khaleed,harith,hilda,suyou,gatotkaca,pharsa,hayabusa,cici,moskov,chou,selena,15
+286,19-Apr-2025,geek,ae,2,geek,1.9.64,joy,hanzo,phoveus,selena,luo yi,fanny,kalea,chip,hilda,badang,harith,suyou,chou,zhuxin,gloo,hayabusa,cici,moskov,gatotkaca,faramis,15
+287,19-Apr-2025,ae,geek,3,geek,1.9.64,fanny,chou,phoveus,gloo,chou,joy,kalea,harith,selena,tigreal,cici,hayabusa,moskov,valentina,khaleed,badang,granger,suyou,zhuxin,gatotkaca,15
+288,20-Apr-2025,onic,tlid,1,tlid,1.9.64,hilda,granger,moskov,gatotkaca,phoveus,luo yi,harith,chip,hylos,gloo,fanny,cecilion,chou,arlott,beatrix,zhuxin,kalea,joy,badang,karrie,15
+289,20-Apr-2025,onic,tlid,2,onic,1.9.64,hilda,joy,zhuxin,phoveus,pharsa,luo yi,harith,chip,cecilion,yve,fanny,badang,granger,cici,valentina,kalea,moskov,suyou,chou,vexana,15
+290,20-Apr-2025,onic,tlid,3,tlid,1.9.64,hilda,joy,zhuxin,phoveus,badang,luo yi,harith,fanny,irithel,beatrix,chip,hanzo,kalea,pharsa,moskov,granger,suyou,gatotkaca,valentina,mathilda,15
+291,20-Apr-2025,rrq,btr,1,btr,1.9.64,selena,granger,mathilda,valentina,wanwan,fanny,harith,luo yi,cecilion,hayabusa,chip,moskov,lukas,yve,hilda,zhuxin,suyou,gatotkaca,claude,carmilla,15
+292,20-Apr-2025,rrq,btr,2,btr,1.9.64,selena,mathilda,moskov,lukas,fredrinn,granger,chip,harith,hilda,uranus,kalea,fanny,yve,phoveus,claude,zhuxin,hylos,masha,joy,ruby,15
+293,20-Apr-2025,dewa,geek,1,geek,1.9.64,chip,luo yi,badang,gloo,hilda,harith,granger,kalea,mathilda,jawhead,fanny,zhuxin,phoveus,gatotkaca,karrie,chou,moskov,suyou,hylos,yve,15
+294,20-Apr-2025,dewa,geek,2,dewa,1.9.64,chip,luo yi,badang,bruno,claude,harith,granger,kalea,yve,joy,moskov,mathilda,phoveus,fanny,cecilion,chou,suyou,zhuxin,gatotkaca,beatrix,15
+295,20-Apr-2025,dewa,geek,3,geek,1.9.64,chip,luo yi,badang,pharsa,aurora,harith,granger,mathilda,gloo,chou,moskov,cecilion,joy,carmilla,uranus,kalea,suyou,claude,phoveus,valentina,15
+296,25-Apr-2025,geek,navi,1,geek,1.9.68,hilda,lukas,zhuxin,mathilda,bruno,chip,luo yi,fanny,arlott,moskov,kalea,fredrinn,novaria,floryn,granger,joy,phoveus,faramis,hylos,clint,15
+297,25-Apr-2025,geek,navi,2,geek,1.9.68,hilda,lukas,zhuxin,mathilda,arlott,chip,luo yi,fanny,jawhead,pharsa,kalea,suyou,granger,valentina,phoveus,fredrinn,novaria,natan,chou,hylos,15
+298,25-Apr-2025,evos,onic,1,evos,1.9.68,moskov,phoveus,luo yi,badang,beatrix,chip,joy,yve,jawhead,cici,harith,fanny,gatotkaca,edith,zhask,kalea,zhuxin,hayabusa,hilda,granger,15
+299,25-Apr-2025,onic,evos,2,evos,1.9.68,chip,lukas,fredrinn,phoveus,pharsa,fanny,harith,zhuxin,yve,luo yi,joy,irithel,hilda,cici,valentina,kalea,granger,suyou,hylos,zhask,15
+300,26-Apr-2025,dewa,rrq,1,rrq,1.9.68,lukas,luo yi,chip,franco,yve,kalea,zhuxin,fanny,suyou,fredrinn,harith,phoveus,mathilda,valentina,alpha,granger,hilda,hayabusa,novaria,badang,15
+301,26-Apr-2025,dewa,rrq,2,rrq,1.9.68,lukas,luo yi,granger,irithel,claude,kalea,zhuxin,fanny,valentina,carmilla,harith,hayabusa,hilda,selena,gatotkaca,suyou,chip,phoveus,pharsa,wanwan,15
+302,26-Apr-2025,tlid,ae,1,tlid,1.9.68,hayabusa,phoveus,luo yi,mathilda,arlott,fanny,zhuxin,joy,kalea,cici,harith,suyou,chip,edith,pharsa,granger,selena,fredrinn,novaria,hylos,15
+303,26-Apr-2025,ae,tlid,2,ae,1.9.68,fanny,chip,kalea,moskov,vexana,harith,luo yi,zhuxin,selena,tigreal,granger,hayabusa,hylos,khaleed,novaria,hilda,joy,chou,pharsa,irithel,15
+304,26-Apr-2025,tlid,ae,3,tlid,1.9.68,hayabusa,luo yi,granger,selena,novaria,fanny,zhuxin,chip,gatotkaca,mathilda,harith,kalea,suyou,edith,yve,joy,phoveus,moskov,hylos,valentina,15
+305,26-Apr-2025,evos,btr,1,evos,1.9.68,masha,chip,luo yi,granger,beatrix,fanny,joy,hayabusa,badang,hylos,harith,suyou,yve,gatotkaca,edith,zhuxin,kalea,hanzo,phoveus,wanwan,15
+306,26-Apr-2025,evos,btr,2,btr,1.9.68,masha,chip,luo yi,kalea,phoveus,fanny,joy,hayabusa,mathilda,edith,harith,lukas,valentina,hylos,badang,suyou,zhuxin,wanwan,gatotkaca,cici,15
+307,26-Apr-2025,evos,btr,3,btr,1.9.68,masha,chip,zhuxin,phoveus,luo yi,fanny,harith,granger,valentina,gatotkaca,kalea,joy,irithel,zhask,hylos,moskov,suyou,tigreal,hilda,novaria,15
+308,27-Apr-2025,ae,navi,1,navi,1.9.68,chip,mathilda,fredrinn,zhuxin,valentina,luo yi,joy,phoveus,hanzo,hayabusa,zhuxin,chou,granger,lancelot,hylos,harith,kalea,suyou,hilda,yve,15
+309,27-Apr-2025,ae,navi,2,ae,1.9.68,mathilda,hilda,chip,chou,jawhead,luo yi,joy,phoveus,yve,novaria,kalea,hayabusa,granger,hylos,zhask,harith,zhuxin,suyou,gatotkaca,badang,15
+310,27-Apr-2025,ae,navi,3,ae,1.9.68,hilda,chip,mathilda,suyou,moskov,luo yi,joy,granger,cici,yve,harith,gatotkaca,hayabusa,badang,zhask,zhuxin,kalea,phoveus,lancelot,bruno,15
+311,27-Apr-2025,geek,onic,1,geek,1.9.68,zhuxin,hayabusa,harith,luo yi,hilda,chip,fredrinn,fanny,phoveus,hylos,kalea,moskov,suyou,chou,novaria,joy,granger,gatotkaca,badang,pharsa,15
+312,27-Apr-2025,onic,geek,2,onic,1.9.68,chip,fredrinn,suyou,phoveus,hilda,fanny,zhuxin,granger,pharsa,valentina,kalea,hayabusa,harith,luo yi,gatotkaca,moskov,joy,novaria,badang,hylos,15
+313,27-Apr-2025,geek,onic,3,onic,1.9.68,luo yi,harith,hayabusa,chou,hilda,chip,fredrinn,fanny,novaria,pharsa,kalea,suyou,moskov,valentina,helcurt,zhuxin,joy,granger,hylos,badang,15
+314,27-Apr-2025,dewa,tlid,1,tlid,1.9.68,yve,chip,moskov,karrie,hilda,harith,granger,phoveus,gatotkaca,tigreal,fanny,badang,cecilion,wanwan,chou,zhuxin,kalea,suyou,beatrix,akai,15
+315,27-Apr-2025,tlid,dewa,2,dewa,1.9.68,phoveus,granger,moskov,selena,luo yi,chip,fanny,harith,irithel,gatotkaca,zhuxin,joy,hilda,chou,wanwan,suyou,kalea,beatrix,badang,lunox,15
+316,27-Apr-2025,dewa,tlid,3,tlid,1.9.68,chip,fanny,yve,hayabusa,khaleed,harith,granger,kalea,cici,beatrix,zhuxin,mathilda,fredrinn,badang,clint,phoveus,moskov,cecilion,gatotkaca,suyou,15
+317,2-May-2025,navi,dewa,1,dewa,1.9.68,mathilda,fanny,harith,chou,badang,kalea,chip,granger,bruno,phoveus,zhuxin,hylos,joy,khaleed,karrie,hilda,moskov,hayabusa,gatotkaca,kimmy,15
+318,2-May-2025,navi,dewa,2,dewa,1.9.68,mathilda,fanny,joy,gatotkaca,badang,kalea,chip,granger,bruno,lukas,hilda,chou,zhuxin,lunox,yi sun-shin,suyou,harith,phoveus,kimmy,jawhead,15
+319,2-May-2025,ae,geek,1,geek,1.9.68,fanny,chip,zhuxin,cici,pharsa,joy,hayabusa,luo yi,granger,selena,kalea,fredrinn,novaria,esmeralda,kimmy,suyou,harith,chou,phoveus,valentina,15
+320,2-May-2025,ae,geek,2,geek,1.9.68,fanny,chip,zhuxin,gloo,badang,joy,hayabusa,luo yi,granger,phoveus,kalea,novaria,hanzo,hilda,kimmy,suyou,harith,chou,valentina,hylos,15
+321,3-May-2025,evos,ae,1,ae,1.9.68,phoveus,hayabusa,luo yi,fredrinn,hanzo,fanny,chip,suyou,chou,hylos,joy,granger,zhuxin,gatotkaca,badang,harith,selena,kalea,ling,lukas,15
+322,3-May-2025,ae,evos,2,ae,1.9.68,fanny,granger,chip,edith,mathilda,joy,hayabusa,harith,valentina,wanwan,suyou,yve,gatotkaca,karrie,cici,zhuxin,kalea,lukas,moskov,jawhead,15
+323,3-May-2025,onic,tlid,1,onic,1.9.68,zhuxin,hilda,kalea,phoveus,gloo,luo yi,granger,fanny,gatotkaca,hylos,joy,badang,valentina,chou,claude,harith,chip,hayabusa,pharsa,edith,15
+324,3-May-2025,tlid,onic,2,onic,1.9.68,luo yi,granger,cici,valentina,claude,fanny,zhuxin,joy,phoveus,gloo,harith,chip,suyou,edith,novaria,hilda,kalea,hayabusa,pharsa,beatrix,15
+325,3-May-2025,btr,rrq,1,btr,1.9.68,hayabusa,chip,luo yi,fredrinn,franco,zhuxin,kalea,granger,pharsa,masha,joy,kimmy,gatotkaca,wanwan,gloo,phoveus,harith,novaria,tigreal,ling,15
+326,3-May-2025,rrq,btr,2,rrq,1.9.68,masha,zhuxin,gatotkaca,badang,chou,chip,luo yi,kalea,moskov,phoveus,joy,pharsa,hylos,franco,granger,harith,valentina,hayabusa,hilda,jawhead,15
+327,3-May-2025,rrq,btr,3,rrq,1.9.68,masha,gatotkaca,zhuxin,kimmy,khaleed,chip,hayabusa,luo yi,franco,irithel,kalea,lukas,valentina,mathilda,granger,hilda,joy,wanwan,badang,pharsa,15
+328,4-May-2025,navi,tlid,1,tlid,1.9.68,fanny,zhuxin,kalea,fredrinn,alpha,hilda,luo yi,granger,moskov,irithel,chip,hylos,joy,claude,pharsa,harith,phoveus,mathilda,valentina,suyou,15
+329,4-May-2025,navi,tlid,2,tlid,1.9.68,fanny,zhuxin,mathilda,gatotkaca,valentina,hilda,luo yi,chip,hylos,badang,kalea,granger,joy,gloo,vexana,phoveus,harith,hayabusa,pharsa,chou,15
+330,4-May-2025,rrq,onic,1,rrq,1.9.68,fanny,luo yi,valentina,suyou,ling,zhuxin,lukas,franco,hylos,phoveus,chip,hayabusa,granger,selena,esmeralda,harith,kalea,hilda,pharsa,lancelot,15
+331,4-May-2025,rrq,onic,2,onic,1.9.68,fanny,valentina,luo yi,novaria,chou,zhuxin,chip,kalea,hilda,selena,joy,granger,gatotkaca,khaleed,kadita,badang,harith,hayabusa,pharsa,hylos,15
+332,4-May-2025,rrq,onic,3,onic,1.9.68,fanny,luo yi,valentina,hayabusa,cici,zhuxin,chip,kalea,yve,pharsa,harith,lukas,mathilda,badang,cecilion,gatotkaca,granger,x.borg,faramis,benedetta,15
+333,4-May-2025,geek,evos,1,evos,1.9.68,lukas,joy,granger,badang,jawhead,harith,chip,kalea,cecilion,yve,fanny,phoveus,chou,valentina,karrie,zhuxin,moskov,suyou,hylos,franco,15
+334,4-May-2025,geek,evos,2,geek,1.9.68,lukas,granger,fanny,gatotkaca,mathilda,harith,chip,kalea,gloo,hylos,joy,yve,chou,claude,edith,phoveus,zhuxin,hayabusa,moskov,ruby,15
+335,4-May-2025,geek,evos,3,geek,1.9.68,lukas,fanny,hayabusa,hylos,phoveus,harith,chip,joy,novaria,floryn,kalea,fredrinn,granger,edith,cecilion,zhuxin,suyou,moskov,mathilda,gatotkaca,15
+336,9-May-2025,geek,dewa,1,geek,1.9.68,granger,mathilda,harith,beatrix,joy,chip,kalea,suyou,badang,tigreal,fanny,zhuxin,phoveus,claude,helcurt,kimmy,chou,lukas,moskov,hilda,15
+337,9-May-2025,geek,dewa,2,geek,1.9.68,granger,mathilda,harith,joy,hayabusa,chip,kalea,phoveus,hilda,gloo,fanny,moskov,zhuxin,gatotkaca,edith,chou,kimmy,badang,ling,ruby,15
+338,9-May-2025,tlid,btr,1,btr,1.9.68,luo yi,joy,chip,masha,lukas,fanny,zhuxin,hayabusa,ruby,harith,kimmy,mathilda,phoveus,moskov,suyou,valentina,kalea,granger,gloo,fredrinn,15
+339,9-May-2025,tlid,btr,2,tlid,1.9.68,luo yi,joy,kalea,fredrinn,lukas,fanny,zhuxin,chip,chou,ruby,kimmy,phoveus,hayabusa,harith,mathilda,gatotkaca,granger,masha,valentina,ling,15
+340,9-May-2025,tlid,btr,3,tlid,1.9.68,luo yi,joy,kalea,lukas,fredrinn,fanny,hayabusa,zhuxin,ling,novaria,chip,harith,phoveus,suyou,pharsa,kimmy,valentina,carmilla,x.borg,masha,15
+341,10-May-2025,ae,dewa,1,ae,1.9.68,fanny,mathilda,suyou,granger,pharsa,joy,hayabusa,luo yi,hanzo,ling,harith,gatotkaca,kimmy,leomord,valentina,phoveus,chip,lukas,irithel,lunox,15
+342,10-May-2025,ae,dewa,2,ae,1.9.68,fanny,mathilda,suyou,granger,beatrix,joy,hayabusa,luo yi,yve,novaria,harith,phoveus,ling,pharsa,gatotkaca,kimmy,kalea,fredrinn,cici,moskov,15
+343,10-May-2025,rrq,evos,1,rrq,1.9.68,granger,fanny,mathilda,gloo,gatotkaca,chip,joy,harith,zhuxin,phoveus,kimmy,hayabusa,hylos,luo yi,badang,kalea,valentina,suyou,moskov,edith,15
+344,10-May-2025,rrq,evos,2,rrq,1.9.68,granger,fanny,hayabusa,beatrix,irithel,chip,kimmy,harith,gloo,cici,joy,zhuxin,hylos,wanwan,franco,kalea,suyou,yve,bruno,edith,15
+345,10-May-2025,navi,onic,1,onic,1.9.68,fanny,hayabusa,luo yi,faramis,cici,zhuxin,joy,chip,harith,moskov,kalea,valentina,lukas,edith,irithel,kimmy,gatotkaca,x.borg,granger,benedetta,15
+346,10-May-2025,onic,navi,2,onic,1.9.68,lukas,zhuxin,hilda,granger,wanwan,fanny,kimmy,luo yi,gloo,gatotkaca,kalea,harith,hayabusa,valentina,hylos,phoveus,chip,suyou,moskov,valir,15
+347,11-May-2025,rrq,geek,1,geek,1.9.68,fanny,harith,zhuxin,fredrinn,x.borg,joy,kimmy,luo yi,pharsa,yve,chip,suyou,gloo,valentina,granger,kalea,phoveus,faramis,claude,ling,15
+348,11-May-2025,geek,rrq,2,rrq,1.9.68,lukas,phoveus,hayabusa,franco,badang,kalea,chip,joy,gatotkaca,hilda,zhuxin,fanny,harith,chou,edith,suyou,hylos,moskov,pharsa,tigreal,15
+349,11-May-2025,geek,rrq,3,rrq,1.9.68,lukas,hayabusa,phoveus,luo yi,franco,kalea,fanny,joy,helcurt,gloo,harith,ling,zhuxin,edith,chip,hylos,suyou,kimmy,badang,zhask,15
+350,11-May-2025,btr,navi,1,btr,1.9.68,hayabusa,luo yi,fanny,cici,phoveus,chip,harith,granger,masha,wanwan,kalea,pharsa,fredrinn,beatrix,arlott,joy,kimmy,gatotkaca,terizla,moskov,15
+351,11-May-2025,navi,btr,2,btr,1.9.68,fredrinn,harith,mathilda,phoveus,akai,kalea,hayabusa,chip,pharsa,luo yi,granger,fanny,hilda,jawhead,kimmy,chou,joy,moskov,badang,zhuxin,15
+352,11-May-2025,evos,tlid,1,tlid,1.9.68,mathilda,harith,moskov,beatrix,badang,luo yi,granger,chip,lolita,edith,fanny,gatotkaca,bruno,yve,gloo,kimmy,kalea,suyou,phoveus,pharsa,15
+353,11-May-2025,tlid,evos,2,evos,1.9.68,luo yi,granger,kalea,zhask,edith,chip,fanny,kimmy,tigreal,chou,harith,phoveus,zhuxin,hayabusa,gatotkaca,jawhead,suyou,beatrix,gloo,yve,15
+354,11-May-2025,tlid,evos,3,tlid,1.9.68,luo yi,jawhead,harith,valentina,gatotkaca,chip,fanny,kimmy,pharsa,beatrix,kalea,phoveus,hayabusa,yve,karrie,granger,joy,gloo,faramis,hylos,15
+355,16-May-2025,ae,tlid,1,ae,1.9.68,fanny,suyou,harith,moskov,chou,luo yi,chip,kalea,selena,novaria,phoveus,ling,gatotkaca,clint,yve,hayabusa,kimmy,hilda,zhuxin,khaleed,15
+356,16-May-2025,ae,tlid,2,ae,1.9.68,fanny,suyou,harith,badang,pharsa,luo yi,chip,phoveus,valentina,selena,kimmy,gatotkaca,ling,franco,granger,hayabusa,kalea,moskov,novaria,baxia,15
+357,16-May-2025,dewa,btr,1,btr,1.9.68,masha,harith,chou,yve,badang,fanny,kalea,kimmy,cici,phoveus,zhuxin,joy,granger,terizla,gatotkaca,fredrinn,chip,moskov,luo yi,lancelot,15
+358,16-May-2025,btr,dewa,2,btr,1.9.68,hayabusa,fanny,luo yi,cici,tigreal,joy,masha,kimmy,yve,pharsa,kalea,chip,beatrix,cecilion,baxia,harith,zhuxin,suyou,gatotkaca,edith,15
+359,17-May-2025,tlid,geek,1,geek,1.9.68,luo yi,phoveus,harith,yve,valentina,fanny,kimmy,kalea,joy,hayabusa,chip,zhuxin,moskov,gatotkaca,lukas,badang,granger,suyou,zhask,gloo,15
+360,17-May-2025,tlid,geek,2,tlid,1.9.68,luo yi,phoveus,harith,yve,gloo,fanny,kalea,kimmy,moskov,edith,chip,suyou,zhuxin,gatotkaca,bruno,granger,badang,joy,zhask,hylos,15
+361,17-May-2025,tlid,geek,3,geek,1.9.68,luo yi,phoveus,harith,yve,gloo,fanny,kalea,kimmy,moskov,edith,chip,zhuxin,suyou,bruno,gatotkaca,granger,badang,joy,valentina,terizla,15
+362,17-May-2025,ae,rrq,1,rrq,1.9.68,suyou,lukas,hylos,badang,tigreal,kimmy,harith,kalea,granger,yve,phoveus,ling,gatotkaca,karrie,selena,zhuxin,hayabusa,hilda,beatrix,franco,15
+363,17-May-2025,ae,rrq,2,ae,1.9.68,suyou,lukas,tigreal,franco,badang,kimmy,harith,kalea,phoveus,granger,hayabusa,yve,gatotkaca,karrie,chou,zhuxin,hylos,joy,moskov,chip,15
+364,17-May-2025,ae,rrq,3,rrq,1.9.68,suyou,lukas,phoveus,franco,cici,kimmy,harith,kalea,chou,granger,hayabusa,hylos,yve,tigreal,claude,joy,gatotkaca,pharsa,badang,wanwan,15
+365,17-May-2025,onic,btr,1,btr,1.9.68,masha,zhuxin,chip,beatrix,moskov,fanny,luo yi,joy,x.borg,hayabusa,kimmy,gatotkaca,selena,jawhead,ling,pharsa,kalea,baxia,granger,badang,15
+366,17-May-2025,btr,onic,2,onic,1.9.68,luo yi,fanny,joy,valentina,cecilion,chip,zhuxin,kimmy,masha,ling,kalea,baxia,pharsa,granger,badang,gatotkaca,harith,hanzo,faramis,gloo,15
+367,17-May-2025,btr,onic,3,btr,1.9.68,luo yi,fanny,joy,gloo,pharsa,chip,kalea,masha,ling,moskov,kimmy,fredrinn,badang,ruby,granger,harith,baxia,hanzo,valir,phoveus,15
+368,18-May-2025,dewa,rrq,1,dewa,1.9.68,phoveus,zhuxin,moskov,harith,franco,kalea,kimmy,fanny,joy,novaria,chip,fredrinn,granger,esmeralda,yve,valentina,gatotkaca,suyou,badang,wanwan,15
+369,18-May-2025,dewa,rrq,2,dewa,1.9.68,phoveus,zhuxin,moskov,hanzo,hayabusa,kalea,granger,fanny,tigreal,mathilda,kimmy,harith,fredrinn,cici,badang,pharsa,chip,beatrix,cici,terizla,15
+370,18-May-2025,evos,onic,1,onic,1.9.68,hayabusa,kalea,luo yi,yve,novaria,kimmy,joy,chip,phoveus,gloo,harith,gatotkaca,suyou,cecilion,chou,fanny,badang,granger,pharsa,hylos,15
+371,18-May-2025,onic,evos,2,onic,1.9.68,lukas,baxia,hayabusa,gatotkaca,phoveus,chip,kimmy,fanny,badang,gloo,joy,hylos,granger,luo yi,jawhead,harith,kalea,ling,pharsa,tigreal,15
+372,18-May-2025,geek,navi,1,geek,1.9.68,hayabusa,granger,phoveus,lukas,ling,fanny,kalea,chip,helcurt,zhask,kimmy,suyou,hylos,wanwan,badang,gatotkaca,harith,zhuxin,hanzo,khaleed,15
+373,18-May-2025,geek,navi,2,geek,1.9.68,hayabusa,granger,phoveus,zhuxin,gloo,fanny,suyou,kimmy,mathilda,irithel,kalea,valentina,lukas,harith,akai,gatotkaca,joy,wanwan,badang,vexana,15
+374,23-May-2025,btr,geek,1,btr,1.9.68,fanny,luo yi,joy,cici,faramis,kalea,masha,fredrinn,pharsa,kimmy,baxia,irithel,phoveus,valentina,angela,badang,harith,suyou,zhuxin,gloo,15
+375,23-May-2025,geek,btr,2,geek,1.9.68,fredrinn,baxia,masha,hanzo,wanwan,fanny,joy,kalea,chou,zhuxin,phoveus,suyou,granger,gatotkaca,valentina,badang,luo yi,hylos,clint,lukas,15
+376,23-May-2025,btr,geek,3,geek,1.9.68,fanny,luo yi,phoveus,faramis,gatotkaca,masha,fredrinn,baxia,granger,pharsa,kalea,hayabusa,kimmy,beatrix,tigreal,badang,joy,wanwan,gloo,zhuxin,15
+377,23-May-2025,dewa,onic,1,dewa,1.9.68,badang,hayabusa,fanny,moskov,jawhead,chip,kalea,zhuxin,edith,hylos,kimmy,granger,fredrinn,chou,gloo,pharsa,phoveus,joy,beatrix,gatotkaca,15
+378,23-May-2025,dewa,onic,2,onic,1.9.68,badang,hayabusa,fanny,hanzo,ling,chip,kalea,joy,wanwan,claude,kimmy,cici,fredrinn,mathilda,harith,baxia,granger,yve,paquito,franco,15
+379,23-May-2025,dewa,onic,3,onic,1.9.68,badang,hayabusa,fanny,luo yi,pharsa,chip,kalea,joy,fredrinn,suyou,granger,chou,yve,lancelot,gloo,kimmy,baxia,ling,claude,khaleed,15
+380,24-May-2025,evos,navi,1,evos,1.9.68,phoveus,luo yi,hayabusa,beatrix,lukas,fanny,granger,joy,ling,gloo,harith,chip,pharsa,cici,guinevere,kalea,baxia,valentina,irithel,benedetta,15
+381,24-May-2025,evos,navi,2,navi,1.9.68,phoveus,luo yi,lukas,valentina,zhuxin,fanny,joy,mathilda,ling,suyou,chip,harith,pharsa,guinevere,x.borg,kalea,granger,hayabusa,gloo,kimmy,15
+382,24-May-2025,navi,evos,3,evos,1.9.68,lukas,mathilda,fanny,phoveus,x.borg,joy,chip,kimmy,hylos,gloo,kalea,granger,luo yi,cici,fredrinn,harith,baxia,pharsa,gatotkaca,suyou,15
+383,24-May-2025,tlid,rrq,1,tlid,1.9.68,lukas,hayabusa,phoveus,hylos,esmeralda,kalea,fanny,joy,harith,yve,chip,ling,hilda,granger,kimmy,zhuxin,suyou,franco,karrie,gloo,15
+384,24-May-2025,tlid,rrq,2,tlid,1.9.68,lukas,hayabusa,phoveus,hylos,esmeralda,fanny,joy,baxia,granger,harith,chip,ling,hilda,kimmy,zhuxin,kalea,suyou,beatrix,pharsa,gloo,15
+385,24-May-2025,ae,onic,1,onic,1.9.68,fanny,suyou,badang,masha,benedetta,hayabusa,ling,hanzo,zhuxin,yve,joy,phoveus,granger,gatotkaca,kimmy,harith,fredrinn,chip,luo yi,paquito,15
+386,24-May-2025,onic,ae,2,onic,1.9.68,ling,hanzo,joy,hilda,gatotkaca,fanny,granger,harith,baxia,hylos,hayabusa,luo yi,badang,gloo,claude,kimmy,kalea,suyou,phoveus,moskov,15
+387,25-May-2025,dewa,evos,1,evos,1.9.68,lukas,harith,moskov,beatrix,ling,chip,joy,fanny,gloo,phoveus,granger,hayabusa,badang,khaleed,pharsa,baxia,kalea,kimmy,wanwan,angela,15
+388,25-May-2025,evos,dewa,2,evos,1.9.68,luo yi,phoveus,hayabusa,cecilion,pharsa,chip,fanny,lukas,angela,gloo,joy,baxia,granger,kimmy,terizla,fredrinn,kalea,moskov,badang,zhuxin,15
+389,25-May-2025,btr,ae,1,ae,1.9.68,hayabusa,kalea,harith,franco,tigreal,masha,fredrinn,zhuxin,wanwan,chip,joy,phoveus,selena,moskov,gatotkaca,luo yi,granger,baxia,badang,angela,15
+390,25-May-2025,btr,ae,2,ae,1.9.68,hayabusa,ling,joy,cici,franco,fredrinn,masha,zhuxin,selena,valentina,baxia,kalea,harith,pharsa,benedetta,granger,luo yi,x.borg,khaleed,lukas,15
+391,25-May-2025,rrq,navi,1,rrq,1.9.68,granger,chip,hilda,gatotkaca,beatrix,luo yi,harith,kalea,phoveus,franco,baxia,selena,joy,wanwan,badang,chou,valentina,hayabusa,gloo,irithel,15
+392,25-May-2025,rrq,navi,2,rrq,1.9.68,hilda,granger,chip,phoveus,moskov,kalea,luo yi,badang,pharsa,valentina,harith,ling,chou,faramis,terizla,baxia,kimmy,fanny,ruby,bruno,15
+393,11-Jun-2025,tlid,onic,1,onic,1.9.68,hayabusa,baxia,fredrinn,wanwan,granger,fanny,joy,ling,gloo,mathilda,kalea,harith,suyou,badang,pharsa,chip,luo yi,masha,irithel,kaja,15
+394,11-Jun-2025,onic,tlid,2,onic,1.9.68,ling,joy,chip,alpha,suyou,luo yi,fanny,kalea,zhuxin,yve,badang,hayabusa,gloo,irithel,pharsa,phoveus,mathilda,faramis,granger,lukas,15
+395,11-Jun-2025,tlid,onic,3,tlid,1.9.68,hayabusa,luo yi,chip,kimmy,pharsa,fanny,joy,ling,cici,phoveus,zhuxin,mathilda,alpha,gatotkaca,moskov,suyou,gloo,franco,faramis,granger,15
+396,11-Jun-2025,tlid,onic,4,onic,1.9.68,chip,luo yi,hayabusa,lancelot,beatrix,fanny,joy,ling,moskov,harith,zhuxin,alpha,mathilda,gatotkaca,karrie,pharsa,kalea,gloo,julian,granger,15
+397,11-Jun-2025,ae,btr,1,btr,1.9.70,fredrinn,masha,chip,gloo,wanwan,hayabusa,joy,phoveus,valentina,angela,baxia,badang,selena,harith,ling,luo yi,kalea,lukas,granger,chou,15
+398,11-Jun-2025,btr,ae,2,btr,1.9.70,hayabusa,joy,luo yi,lukas,gloo,fredrinn,masha,chip,wanwan,beatrix,baxia,pharsa,kalea,irithel,phoveus,badang,granger,yve,lancelot,gatotkaca,15
+399,11-Jun-2025,ae,btr,3,ae,1.9.70,fredrinn,masha,chip,hanzo,gloo,hayabusa,joy,luo yi,angela,irithel,baxia,pharsa,phoveus,franco,bruno,kalea,granger,kimmy,barats,badang,15
+400,11-Jun-2025,ae,btr,4,ae,1.9.70,fredrinn,masha,chip,kalea,chou,hayabusa,joy,luo yi,badang,karrie,baxia,franco,kimmy,benedetta,irithel,pharsa,phoveus,wanwan,mathilda,lukas,15
+401,11-Jun-2025,ae,btr,5,ae,1.9.70,fredrinn,masha,chip,gloo,hanzo,hayabusa,joy,franco,cici,phoveus,baxia,irithel,angela,badang,kimmy,kalea,luo yi,granger,barats,floryn,15
+402,12-Jun-2025,geek,onic,1,onic,1.9.70,hayabusa,luo yi,pharsa,kalea,franco,fanny,zhuxin,faramis,irithel,granger,chip,fredrinn,valentina,harith,gloo,baxia,kimmy,wanwan,badang,cici,15
+403,12-Jun-2025,geek,onic,2,onic,1.9.70,hayabusa,luo yi,pharsa,joy,kalea,fanny,zhuxin,faramis,moskov,harith,chip,fredrinn,valentina,x.borg,claude,kimmy,baxia,badang,irithel,cici,15
+404,12-Jun-2025,geek,onic,3,geek,1.9.70,kimmy,pharsa,joy,valentina,yve,fanny,zhuxin,luo yi,granger,wanwan,kalea,faramis,suyou,hilda,harith,claude,chip,hayabusa,lylia,esmeralda,15
+405,12-Jun-2025,geek,onic,4,onic,1.9.70,kimmy,pharsa,joy,baxia,fredrinn,fanny,zhuxin,luo yi,claude,wanwan,kalea,suyou,faramis,gloo,granger,badang,harith,yve,cici,ling,15
+406,12-Jun-2025,rrq,ae,1,ae,1.9.70,kimmy,fredrinn,luo yi,harith,irithel,chip,zhuxin,baxia,valentina,franco,joy,granger,gatotkaca,faramis,phoveus,hayabusa,badang,pharsa,kalea,natan,15
+407,12-Jun-2025,rrq,ae,2,rrq,1.9.70,kimmy,phoveus,luo yi,harith,karrie,chip,zhuxin,baxia,valentina,selena,kalea,granger,joy,yve,gloo,badang,hayabusa,pharsa,franco,moskov,15
+408,12-Jun-2025,ae,rrq,3,rrq,1.9.70,chip,zhuxin,badang,fredrinn,gloo,baxia,joy,kalea,harith,irithel,hayabusa,phoveus,kimmy,khaleed,claude,granger,gatotkaca,pharsa,cici,lukas,15
+409,12-Jun-2025,ae,rrq,4,rrq,1.9.70,chip,zhuxin,granger,cici,badang,baxia,joy,hayabusa,ling,hanzo,kalea,luo yi,phoveus,lancelot,wanwan,gatotkaca,harith,yve,hilda,lukas,15
+410,13-Jun-2025,ae,geek,1,geek,1.9.70,fanny,suyou,zhuxin,pharsa,valentina,baxia,joy,hayabusa,ling,badang,luo yi,granger,gatotkaca,edith,hanzo,harith,kalea,fredrinn,cici,kimmy,15
+411,13-Jun-2025,geek,ae,2,geek,1.9.70,hayabusa,baxia,joy,moskov,wanwan,fanny,suyou,fredrinn,cici,gloo,kalea,harith,ling,zhuxin,hilda,gatotkaca,pharsa,phoveus,bruno,leomord,15
+412,13-Jun-2025,ae,geek,3,geek,1.9.70,fanny,suyou,fredrinn,hilda,zhuxin,baxia,hayabusa,joy,valentina,phoveus,kalea,granger,ling,hylos,luo yi,badang,harith,lukas,faramis,chip,15
+413,13-Jun-2025,rrq,onic,1,onic,1.9.70,fanny,masha,luo yi,valentina,gloo,zhuxin,chip,hayabusa,hilda,lukas,baxia,wanwan,pharsa,cici,gatotkaca,kalea,harith,ling,phoveus,yve,15
+414,13-Jun-2025,rrq,onic,2,onic,1.9.70,fanny,masha,luo yi,joy,ling,hayabusa,chip,zhuxin,lukas,suyou,baxia,granger,valentina,badang,yi sun-shin,pharsa,kalea,irithel,cici,alpha,15
+415,13-Jun-2025,onic,rrq,3,rrq,1.9.70,lukas,zhuxin,chip,hilda,pharsa,fanny,baxia,kalea,gloo,chou,luo yi,harith,ling,badang,phoveus,hylos,joy,granger,selena,tigreal,15
+416,13-Jun-2025,rrq,onic,4,onic,1.9.70,fanny,baxia,harith,phoveus,fredrinn,hayabusa,chip,zhuxin,tigreal,gloo,kalea,joy,selena,gatotkaca,granger,luo yi,badang,irithel,kaja,masha,15
+417,14-Jun-2025,geek,rrq,1,geek,1.9.70,hayabusa,baxia,lukas,tigreal,fredrinn,kalea,fanny,harith,kimmy,hanzo,joy,wanwan,badang,luo yi,gloo,phoveus,zhuxin,granger,ruby,ling,15
+418,14-Jun-2025,geek,rrq,2,rrq,1.9.70,hayabusa,lukas,baxia,gloo,fredrinn,fanny,kalea,joy,pharsa,luo yi,suyou,harith,badang,kimmy,phoveus,zhuxin,gatotkaca,wanwan,cici,alpha,15
+419,14-Jun-2025,geek,rrq,3,rrq,1.9.70,hayabusa,lukas,baxia,wanwan,granger,fanny,joy,faramis,x.borg,uranus,kalea,harith,suyou,zhuxin,terizla,fredrinn,chip,masha,kimmy,karrie,15
+420,14-Jun-2025,geek,rrq,4,rrq,1.9.70,lukas,baxia,chip,hayabusa,gatotkaca,fanny,joy,kalea,cici,masha,badang,wanwan,fredrinn,luo yi,gloo,phoveus,harith,pharsa,hylos,yi sun-shin,15
+421,14-Jun-2025,geek,rrq,5,rrq,1.9.70,lukas,chip,baxia,franco,tigreal,fanny,joy,kalea,irithel,granger,phoveus,hayabusa,zhuxin,harith,chou,pharsa,hylos,wanwan,gloo,yi sun-shin,15
+422,15-Jun-2025,rrq,onic,1,onic,1.9.70,fanny,pharsa,yve,hayabusa,ling,chip,zhuxin,wanwan,lukas,yi sun-shin,luo yi,baxia,moskov,chip,terizla,harith,kalea,gloo,vexana,lancelot,15
+423,15-Jun-2025,onic,rrq,2,onic,1.9.70,lukas,chip,zhuxin,tigreal,hylos,fanny,kalea,luo yi,gloo,cici,pharsa,joy,badang,baxia,irithel,hayabusa,hylos,harith,yve,franco,15
+424,15-Jun-2025,onic,rrq,3,rrq,1.9.70,lukas,chip,wanwan,masha,tigreal,fanny,luo yi,badang,gloo,cici,pharsa,joy,irithel,khaleed,gatotkaca,kalea,baxia,harith,valentina,phoveus,15
+425,15-Jun-2025,rrq,ae,4,rrq,1.9.70,fanny,badang,luo yi,harith,cici,chip,kalea,baxia,hilda,masha,pharsa,granger,fredrinn,tigreal,benedetta,valentina,gatotkaca,hayabusa,gloo,irithel,15
+426,15-Jun-2025,ae,onic,5,rrq,1.9.70,fanny,badang,luo yi,cici,hayabusa,chip,lukas,yi sun-shin,zhuxin,gloo,kalea,joy,granger,yve,phoveus,pharsa,baxia,harith,tigreal,ling,15
+427,15-Jun-2025,rrq,onic,6,onic,1.9.70,fanny,badang,luo yi,cici,masha,luo yi,kalea,joy,ling,yi sun-shin,baxia,granger,tigreal,valentina,benedetta,chou,pharsa,wanwan,gloo,alpha,15
+428,15-Jun-2025,rrq,onic,7,onic,1.9.70,fanny,luo yi,badang,alpha,ling,chip,joy,kalea,lukas,yi sun-shin,baxia,yve,granger,gatotkaca,hayabusa,pharsa,chou,cici,claude,suyou,15
